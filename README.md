@@ -12,7 +12,7 @@
 <!-- Profile Section with Enhanced Stats -->
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/Arghyadevs?v=4" alt="Profile" width="180" style="border-radius: 50%; border: 4px solid #00D9FF; box-shadow: 0 0 20px rgba(0, 217, 255, 0.5);" />
+<img src="https://instagram.fccu13-4.fna.fbcdn.net/v/t51.2885-19/598062250_18184051786357645_99092902954876179_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fccu13-4.fna.fbcdn.net&_nc_cat=101&_nc_oc=Q6cZ2QHjJelk9HcI8WJ2G8mVoG61T_KX3AQZ_kP24a34L9Ray4adYzXrjpzfJtEcc1uHcgh_TRRA3R9PtO9XhWUm4YSE&_nc_ohc=haeRF2XlNlQQ7kNvwFPYfaU&_nc_gid=HRFRslN1-wSKWYM3mWAXfg&edm=APoiHPcBAAAA&ccb=7-5&oh=00_AfkFQuec_ueuwKnpMnaybkxycYjUmyqLOhyqYnAdD1uwCg&oe=695980FC&_nc_sid=22de04" alt="Profile" width="180" style="border-radius: 50%; border: 4px solid #00D9FF; box-shadow: 0 0 20px rgba(0, 217, 255, 0.5);" />
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF6B35&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%7C+Problem+Solver;React+%E2%9A%9B%EF%B8%8F+%7C+MERN+Stack+%7C+AI%2FML+%F0%9F%A4%96;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1;Open+to+Collaborate+on+Innovative+Projects!" alt="Typing SVG" /></a>
