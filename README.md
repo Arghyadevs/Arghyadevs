@@ -873,5 +873,5 @@ gantt
 <div align="center">
   <i>✨ Made with ❤️ by Arghyadip Pakhira</i>
   <br>
-  <i>Last updated: December 2024</i>
+  <i>Last updated: December 2025</i>
 </div>
