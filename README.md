@@ -383,7 +383,7 @@ console.log("Let's build something amazing together! 🎯");
 
 <div align="center">
 
-[![Spotify](https://novatorem-arghyadevs.vercel.app/api/spotify)](https://open.spotify.com/user/arghyadevs)
+[![Spotify](https://novatorem-arghyadevs.vercel.app/api/spotify)](https://open.spotify.com/user/zdms5b79wfmt69tj073hutzv4)
 
 </div>
 
