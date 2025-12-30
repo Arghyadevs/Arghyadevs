@@ -380,16 +380,6 @@ console.log("Let's build something amazing together! 🎯");
 ---
 
 ## 🎵 Spotify Playing
-
-<!-- <div align="center">
-
-[![Spotify](https://novatorem-arghyadevs.vercel.app/api/spotify)](https://open.spotify.com/user/zdms5b79wfmt69tj073hutzv4)
-
-</div> -->
-## 🎵 My Featured Playlist
-
-## 🎵 My Coding Playlist
-
 <div align="center">
 
 <a href="https://open.spotify.com/playlist/2EVYIU5PWjz1NFNmemOGB4" target="_blank">
