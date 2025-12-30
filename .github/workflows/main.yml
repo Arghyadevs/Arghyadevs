@@ -1,0 +1,162 @@
+name: Generate Snake and Update Stats
+
+on:
+  schedule:
+    # Runs every 6 hours
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate-snake:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    
+    steps:
+      # Checkout the repository
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      # Generate snake animation
+      - name: Generate Snake Animation
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      # Push the generated files
+      - name: Push Snake Animation
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      # Checkout the repository
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      # Update WakaTime stats
+      - name: Update WakaTime Stats
+        uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SHOW_LINES_OF_CODE: "True"
+          SHOW_PROFILE_VIEWS: "True"
+          SHOW_DAYS_OF_WEEK: "True"
+          SHOW_SHORT_INFO: "True"
+          SHOW_LOC_CHART: "True"
+          SHOW_PROJECTS: "True"
+          SHOW_LANGUAGE_PER_REPO: "True"
+          SHOW_TIMEZONE: "True"
+          SHOW_EDITORS: "True"
+          SHOW_LANGUAGE: "True"
+          SHOW_OS: "True"
+          SHOW_COMMIT: "True"
+          SHOW_TOTAL_CODE_TIME: "True"
+          LOCALE: "en"
+
+  update-blog-posts:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      # Update blog posts from Medium/Dev.to
+      - name: Update Blog Posts
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://medium.com/feed/@arghyadevs,https://dev.to/feed/arghyadevs"
+          max_post_count: 5
+          template: "- 🚀 **$title**\n"
+          commit_message: "Updated blog posts"
+          committer_username: "GitHub Actions Bot"
+          committer_email: "actions@github.com"
+
+  generate-3d-contrib:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      # Generate 3D contribution graph
+      - name: Generate 3D Contribution
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          MAX_REPOS: 100
+
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A .
+          git commit -m "Generated 3D contribution graph" || exit 0
+          git push
+
+  generate-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      # Generate GitHub metrics
+      - name: Generate Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: ${{ github.repository_owner }}
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Kolkata
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+          plugin_languages: yes
+          plugin_languages_limit: 8
+          plugin_languages_sections: most-used
+          plugin_languages_colors: github
+          plugin_languages_details: bytes-size, percentage
+          plugin_topics: yes
+          plugin_topics_mode: starred
+          plugin_topics_sort: stars
+          plugin_stars: yes
+          plugin_stars_limit: 4
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+          plugin_achievements: yes
+          plugin_achievements_threshold: C
+          plugin_achievements_secrets: yes
+          plugin_code: yes
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_days: 14
+          plugin_activity_filter: all
+          plugin_lines: yes
+          plugin_traffic: yes
+          plugin_pagespeed: yes
+          plugin_pagespeed_url: https://arghyadevs.me
+
+      - name: Commit Metrics
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A .
+          git commit -m "Updated metrics" || exit 0
+          git push
