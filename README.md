@@ -37,7 +37,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=arghyadevs&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B35&text_color=FFFFFF&ring_color=00D9FF&fire_color=FF6B35" alt="GitHub Stats" width="100%" />
     </td>
     <td align="center" width="50%">
-      <img src="https://streak-stats.demolab.com?user=arghyadevs&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakNum=FFFFFF&sideNums=FF6B35&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=FFFFFF" alt="GitHub Streak" width="100%" />
+      <img src="[![GitHub Streak](https://streak-stats.demolab.com?user=Arghyadevs&theme=highcontrast)](https://git.io/streak-stats)&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakNum=FFFFFF&sideNums=FF6B35&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=FFFFFF" alt="GitHub Streak" width="100%" />
     </td>
   </tr>
 </table>
