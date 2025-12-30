@@ -381,9 +381,33 @@ console.log("Let's build something amazing together! 🎯");
 
 ## 🎵 Spotify Playing
 
-<div align="center">
+<!-- <div align="center">
 
 [![Spotify](https://novatorem-arghyadevs.vercel.app/api/spotify)](https://open.spotify.com/user/zdms5b79wfmt69tj073hutzv4)
+
+</div> -->
+## 🎵 My Featured Playlist
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://open.spotify.com/playlist/2EVYIU5PWjz1NFNmemOGB4">
+        <img width="400" src="https://spotify-github-readme.vercel.app/api/playlist?playlist_id=2EVYIU5PWjz1NFNmemOGB4" alt="Spotify Playlist"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://open.spotify.com/playlist/2EVYIU5PWjz1NFNmemOGB4">
+        <img src="https://img.shields.io/badge/▶️_Play_Now-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<p><em>🎧 My go-to playlist for productive coding sessions</em></p>
 
 </div>
 
