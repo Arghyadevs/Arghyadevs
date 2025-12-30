@@ -20,8 +20,8 @@
 
 <!-- Animated Badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arghyadevs&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/arghyadevs?label=Followers&style=for-the-badge&color=FF6B35&logo=github" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=Arghyadevs&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Arghyadevs?label=Followers&style=for-the-badge&color=FF6B35&logo=github" alt="Followers" />
   <img src="https://img.shields.io/badge/Focus-Frontend%20%2B%20AI-00D9FF?style=for-the-badge" alt="Focus" />
   <img src="https://img.shields.io/badge/Lives-India%20🇮🇳-FF6B35?style=for-the-badge" alt="Location" />
 </p>
@@ -34,7 +34,7 @@
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=arghyadevs&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B35&text_color=FFFFFF&ring_color=00D9FF&fire_color=FF6B35" alt="GitHub Stats" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Arghyadevs&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B35&text_color=FFFFFF&ring_color=00D9FF&fire_color=FF6B35" alt="GitHub Stats" width="100%" />
     </td>
    <td align="center" width="50%">
   <img src="https://streak-stats.demolab.com?user=Arghyadevs&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakNum=FFFFFF&sideNums=FF6B35&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=FFFFFF" alt="GitHub Streak" width="100%" />
@@ -42,10 +42,10 @@
   </tr>
 </table>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=arghyadevs&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&layout=compact&langs_count=8&card_width=800" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Arghyadevs&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&layout=compact&langs_count=8&card_width=800" alt="Top Languages" />
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arghyadevs&bg_color=0D1117&color=00D9FF&line=FF6B35&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph" width="100%" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Arghyadevs&bg_color=0D1117&color=00D9FF&line=FF6B35&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph" width="100%" alt="Activity Graph" />
 
 </div>
 
@@ -54,9 +54,9 @@
 <!-- Snake Animation -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arghyadevs/arghyadevs/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arghyadevs/arghyadevs/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/arghyadevs/arghyadevs/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arghyadevs/Arghyadevs/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arghyadevs/Arghyadevs/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Arghyadevs/Arghyadevs/output/github-snake.svg" />
   </picture>
 </div>
 
@@ -145,7 +145,7 @@ console.log("Let's build something amazing together! 🎯");
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arghyadevs&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Arghyadevs&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -219,7 +219,7 @@ console.log("Let's build something amazing together! 🎯");
     <td width="50%" valign="top">
       <h3 align="center">🛡️ SentinelX</h3>
       <div align="center">
-        <a href="https://github.com/arghyadevs/SentinelX" target="_blank">
+        <a href="https://github.com/Arghyadevs/SentinelX" target="_blank">
           <img src="https://img.shields.io/badge/🔍_View_Code-FF6B35?style=for-the-badge&logo=github&logoColor=white" alt="View Code" />
         </a>
         <br><br>
@@ -246,10 +246,10 @@ console.log("Let's build something amazing together! 🎯");
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=arghyadevs&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&layout=compact" alt="Wakatime Stats" />
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Arghyadevs&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&layout=compact" alt="Wakatime Stats" />
     </td>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arghyadevs&theme=radical&utcOffset=5.5" alt="Productive Time" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Arghyadevs&theme=radical&utcOffset=5.5" alt="Productive Time" />
     </td>
   </tr>
 </table>
@@ -258,23 +258,23 @@ console.log("Let's build something amazing together! 🎯");
 <summary>📈 <b>More Detailed Stats</b></summary>
 <br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arghyadevs&theme=radical" alt="Profile Details" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arghyadevs&theme=radical" alt="Profile Details" />
 
 <table>
   <tr>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arghyadevs&theme=radical" alt="Repos per Language" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Arghyadevs&theme=radical" alt="Repos per Language" />
     </td>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arghyadevs&theme=radical" alt="Most Commit Language" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Arghyadevs&theme=radical" alt="Most Commit Language" />
     </td>
   </tr>
   <tr>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arghyadevs&theme=radical" alt="Stats" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Arghyadevs&theme=radical" alt="Stats" />
     </td>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arghyadevs&theme=radical&utcOffset=5.5" alt="Commits" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Arghyadevs&theme=radical&utcOffset=5.5" alt="Commits" />
     </td>
   </tr>
 </table>
@@ -334,7 +334,7 @@ console.log("Let's build something amazing together! 🎯");
 <a href="https://twitter.com/arghya_dip7" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
 </a>
-<a href="https://github.com/arghyadevs" target="_blank">
+<a href="https://github.com/Arghyadevs" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 <a href="https://instagram.com/arghya_dip7" target="_blank">
@@ -404,9 +404,9 @@ console.log("Let's build something amazing together! 🎯");
 ## 🐍 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arghyadevs/arghyadevs/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arghyadevs/arghyadevs/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/arghyadevs/arghyadevs/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arghyadevs/Arghyadevs/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arghyadevs/Arghyadevs/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Arghyadevs/Arghyadevs/output/github-contribution-grid-snake.svg">
 </picture>
 
 ---
