@@ -361,7 +361,7 @@ console.log("Let's build something amazing together! 🎯");
 <a href="https://arghyadevs.vercel.app/assets/Arghyadip_Pakhira_CV.pdf" target="_blank">
   <img src="https://img.shields.io/badge/📄_Download_Resume-00D9FF?style=for-the-badge" alt="Resume" />
 </a>
-<a href="https://arghyadevs.github.io" target="_blank">
+<a href="https://arghyadevs.me" target="_blank">
   <img src="https://img.shields.io/badge/🌐_Portfolio_Website-FF6B35?style=for-the-badge" alt="Portfolio" />
 </a>
 
@@ -388,26 +388,17 @@ console.log("Let's build something amazing together! 🎯");
 </div> -->
 ## 🎵 My Featured Playlist
 
+## 🎵 My Coding Playlist
+
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://open.spotify.com/playlist/2EVYIU5PWjz1NFNmemOGB4">
-        <img width="400" src="https://spotify-github-readme.vercel.app/api/playlist?playlist_id=2EVYIU5PWjz1NFNmemOGB4" alt="Spotify Playlist"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://open.spotify.com/playlist/2EVYIU5PWjz1NFNmemOGB4">
-        <img src="https://img.shields.io/badge/▶️_Play_Now-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />
-      </a>
-    </td>
-  </tr>
-</table>
+<a href="https://open.spotify.com/playlist/2EVYIU5PWjz1NFNmemOGB4" target="_blank">
+  <img src="https://img.shields.io/badge/🎧_Listen_on_Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Playlist" />
+</a>
 
-<p><em>🎧 My go-to playlist for productive coding sessions</em></p>
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=1000&color=1ED760&center=true&vCenter=true&width=600&lines=Perfect+playlist+for+coding+sessions+%F0%9F%8E%B5;Click+above+to+listen!+%F0%9F%8E%A7" alt="Playlist Info" />
 
 </div>
 
