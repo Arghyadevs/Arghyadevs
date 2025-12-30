@@ -490,13 +490,7 @@ CSS          █░░░░░░░░░░░░░░░░░░░░   0
 
 ### 📚 Recent Articles
 
-<!-- BLOG-POST-LIST:START -->
-- 🚀 **Building Scalable React Applications with TypeScript**
-- 🎨 **Mastering GSAP Animations: A Complete Guide**
-- 🤖 **Integrating AI/ML Models in Web Applications**
-- ⚡ **Performance Optimization Techniques for Next.js**
-- 🔐 **Implementing Secure Authentication in MERN Stack**
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- 🚀 **How DRM Secures Online Education: Behind the Scenes of Video Streaming on PW Live &amp; PenPencil**- 🚀 **How Smart Traffic Systems Are Revolutionizing Urban Mobility**<!-- BLOG-POST-LIST:END -->
 
 <a href="https://medium.com/@arghyadevs" target="_blank">
   <img src="https://img.shields.io/badge/📖_Read_More_Articles-00D9FF?style=for-the-badge" alt="Read More" />
