@@ -450,7 +450,7 @@ console.log(`⚡ ${arghyadip.funFact}`);
 
 **🐱 My GitHub Data** 
 
-> 📦 289.4 kB Used in GitHub's Storage 
+> 📦 289.6 kB Used in GitHub's Storage 
  > 
 > 🏆 208 Contributions in the Year 2025
  > 
@@ -516,7 +516,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Arghyadevs/Arghyadevs/main/assets/bar_graph.png)
 
 
- Last Updated on 31/12/2025 06:21:40 UTC
+ Last Updated on 31/12/2025 18:17:42 UTC
 <!--END_SECTION:waka-->
 
 ### 📅 This Year's Progress
