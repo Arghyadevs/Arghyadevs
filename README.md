@@ -442,23 +442,23 @@ console.log(`⚡ ${arghyadip.funFact}`);
 ### ⏱️ Weekly Development Time
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-14%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-53%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-60-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-276.2%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-276.16%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 289.6 kB Used in GitHub's Storage 
+> 📦 341.0 kB Used in GitHub's Storage 
  > 
-> 🏆 208 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 19 Public Repositories 
  > 
-> 🔑 22 Private Repositories 
+> 🔑 23 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -487,26 +487,30 @@ Sunday                   55 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 14 mins             █████████████████████████   100.00 % 
+TypeScript               36 mins             █████████████████░░░░░░░░   68.66 % 
+Markdown                 14 mins             ███████░░░░░░░░░░░░░░░░░░   26.59 % 
+JavaScript               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
+HTML                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
 
 🔥 Editors: 
-VS Code                  14 mins             █████████████████████████   100.00 % 
+VS Code                  53 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Desktop                  14 mins             █████████████████████████   100.00 % 
+arghyadip-portfolio      39 mins             ██████████████████░░░░░░░   73.41 % 
+Desktop                  14 mins             ███████░░░░░░░░░░░░░░░░░░   26.59 % 
 
 💻 Operating System: 
-Mac                      14 mins             █████████████████████████   100.00 % 
+Mac                      53 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
 
 ```text
-HTML                     15 repos            ███████████░░░░░░░░░░░░░░   44.12 % 
-TypeScript               10 repos            ███████░░░░░░░░░░░░░░░░░░   29.41 % 
-JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
-Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+HTML                     15 repos            ███████████░░░░░░░░░░░░░░   42.86 % 
+TypeScript               10 repos            ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+JavaScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
+Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
 ```
 
 
@@ -516,7 +520,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Arghyadevs/Arghyadevs/main/assets/bar_graph.png)
 
 
- Last Updated on 31/12/2025 18:17:42 UTC
+ Last Updated on 02/01/2026 06:20:12 UTC
 <!--END_SECTION:waka-->
 
 ### 📅 This Year's Progress
