@@ -450,7 +450,7 @@ console.log(`⚡ ${arghyadip.funFact}`);
 
 **🐱 My GitHub Data** 
 
-> 📦 341.2 kB Used in GitHub's Storage 
+> 📦 341.4 kB Used in GitHub's Storage 
  > 
 > 🏆 0 Contributions in the Year 2026
  > 
@@ -520,7 +520,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Arghyadevs/Arghyadevs/main/assets/bar_graph.png)
 
 
- Last Updated on 02/01/2026 18:20:48 UTC
+ Last Updated on 03/01/2026 06:17:54 UTC
 <!--END_SECTION:waka-->
 
 ### 📅 This Year's Progress
