@@ -18,7 +18,7 @@
 
 <br><br>
 
-<!-- Social Connect -->
+<!-- Social Connect with Animation -->
 <a href="https://linkedin.com/in/arghyadip-pakhira"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://twitter.com/arghya_dip7"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 <a href="mailto:arghyadip.info@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -28,16 +28,30 @@
 
 <br>
 
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br>
+
 <!-- Coding GIF -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600" />
 </div>
 
+<br>
 
----
+<!-- Another Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+
+<br>
 
 <!-- GitHub Stats with Animation -->
 <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=35&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=%F0%9F%93%8A+GitHub+Statistics" />
+
+<br><br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arghyadevs&theme=neon-dark&hide_border=true&stroke=00F5FF&ring=00F5FF&fire=FF6B35&currStreakLabel=00F5FF&sideLabels=FFFFFF&background=000000" width="49%" />
 <img src="https://github-readme-stats.vercel.app/api?username=Arghyadevs&show_icons=true&theme=neon&hide_border=true&bg_color=000000&title_color=00F5FF&icon_color=FF6B35&text_color=FFFFFF&ring_color=00F5FF" width="49%" />
@@ -46,8 +60,26 @@
 
 <br>
 
+<!-- Animated Line -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br>
+
+<!-- GitHub Trophies -->
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Arghyadevs&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7&title=Stars,Commits,Repositories,PullRequest,Issues,Followers,MultiLanguage" />
+
+</div>
+
+<br>
+
 <!-- Tech Stack Icons -->
 <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=35&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&width=600&lines=%F0%9F%9B%A0%EF%B8%8F+Tech+Arsenal" />
+
+<br><br>
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,nodejs,express,mongodb,python,tensorflow,pytorch,git,docker,aws,vscode,figma&perline=8&theme=dark" />
 
@@ -55,7 +87,7 @@
 
 <br>
 
-<!-- Animated Tech Badges -->
+<!-- Animated Tech Badges with Glow -->
 <div align="center">
 
 <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
@@ -69,22 +101,50 @@
 
 <br>
 
-<!-- Activity Graph -->
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br>
+
+<!-- Activity Graph with Enhanced Animation -->
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arghyadevs&bg_color=000000&color=00F5FF&line=FF6B35&point=FFFFFF&area=true&hide_border=true&theme=github-dark" width="98%" />
 
 </div>
 
+<br>
 
-
-
----
-
-<!-- Featured Projects -->
+<!-- Language Stats -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&width=600&lines=%F0%9F%94%A5+Featured+Projects" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arghyadevs&layout=compact&theme=neon&hide_border=true&bg_color=000000&title_color=00F5FF&text_color=FFFFFF&langs_count=8" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Arghyadevs&theme=neon&hide_border=true&bg_color=000000&title_color=00F5FF&text_color=FFFFFF&layout=compact" width="48%" />
+
+</div>
+
+<br>
+
+<!-- Profile Summary Card -->
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arghyadevs&theme=github_dark" width="98%" />
+
+</div>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+
+
+
+<br>
+
+<!-- Featured Projects with Animation -->
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=35&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&width=600&lines=%F0%9F%94%A5+Featured+Projects" />
 
 <br><br>
 
@@ -120,10 +180,15 @@
 
 <br>
 
-<!-- Coding Platforms -->
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br>
+
+<!-- Coding Platforms with Animation -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=%F0%9F%8F%86+Coding+Profiles" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=35&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=%F0%9F%8F%86+Coding+Achievements" />
 
 <br><br>
 
@@ -132,21 +197,42 @@
 <a href="https://auth.geeksforgeeks.org/user/arghya_devs"><img src="https://img.shields.io/badge/GeeksforGeeks-148F6C?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
 <a href="https://www.codechef.com/users/arghyadevs"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
 
-<br>
+<br><br>
 
 <img src="https://img.shields.io/badge/200%2B-Problems_Solved-FFA116?style=flat-square" />
 <img src="https://img.shields.io/badge/5%E2%AD%90-HackerRank-2EC866?style=flat-square" />
 <img src="https://img.shields.io/badge/Rank_1-Institute-148F6C?style=flat-square" />
 
+<br><br>
+
+<!-- LeetCode Stats Card -->
+<img src="https://leetcard.jacoblin.cool/arghyadevs7?theme=dark&font=Orbitron&ext=contest" width="48%" />
+
+</div>
+
+<br>
+
+<!-- Animated Line -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br>
+
+<!-- Coding Activity GIF -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 </div>
 
 
 
 
----
+<br>
 
 <!-- Snake Animation -->
 <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=35&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=%F0%9F%90%8D+Contribution+Snake" />
+
+<br><br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arghyadevs/Arghyadevs/output/github-snake-dark.svg">
@@ -158,8 +244,17 @@
 
 <br>
 
-<!-- Random Quote -->
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br>
+
+<!-- Random Quote with Animation -->
 <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=35&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&width=600&lines=%F0%9F%92%AD+Dev+Wisdom" />
+
+<br><br>
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" />
 
@@ -167,10 +262,22 @@
 
 <br>
 
-<!-- Connect Section -->
+<!-- Animated Line -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br>
+
+<!-- Developer GIF -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="500">
+</div>
+
+<br>
+
+<!-- Connect Section with Enhanced Animation -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&width=600&lines=%F0%9F%A4%9D+Let's+Connect!" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=40&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&width=600&lines=%F0%9F%A4%9D+Let's+Connect!" />
 
 <br><br>
 
@@ -187,12 +294,26 @@
 
 <br><br>
 
+<!-- Animated Buttons -->
 <a href="https://arghyadevs.vercel.app/assets/Arghyadip_Pakhira_CV.pdf"><img src="https://img.shields.io/badge/%F0%9F%93%84_Resume-00F5FF?style=for-the-badge" /></a>
 <a href="https://arghyadevs.me"><img src="https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-FF6B35?style=for-the-badge" /></a>
 
+</div>
+
+<br>
+
+<!-- Animated Line -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br>
+
+<!-- Support Section with Animation -->
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=35&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=%E2%98%95+Support+My+Work" />
+
 <br><br>
 
-<!-- Support -->
 <a href="https://www.buymeacoffee.com/arghyadevs">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" />
 </a>
@@ -201,12 +322,26 @@
 
 <img src="https://visitcount.itsvg.in/api?id=Arghyadevs&icon=5&color=6&pretty=true" />
 
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=120&section=footer" />
+</div>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=16&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Made+with+%E2%9D%A4%EF%B8%8F+by+Arghyadip+Pakhira;Thanks+for+visiting!+%F0%9F%91%8B;Let's+build+something+amazing!+%F0%9F%9A%80" />
+<!-- Final Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+<br>
+
+<!-- Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=150&section=footer" />
+
+<!-- Closing Animation -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=18&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Made+with+%E2%9D%A4%EF%B8%8F+by+Arghyadip+Pakhira;Thanks+for+visiting!+%F0%9F%91%8B;Let's+build+something+amazing!+%F0%9F%9A%80;Keep+coding+and+stay+awesome!+%E2%9C%A8" />
+</div>
+
+<br>
+
+<!-- Final Coding GIF -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
 </div>
