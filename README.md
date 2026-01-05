@@ -1,270 +1,212 @@
-<br clear="right"/>
-
----
-
-## 🎯 Current Focus
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      
-### 🔭 Working On
-- 🌟 [HorizonEase](https://horizonease.vercel.app) - Modern Web Solutions
-- 🎨 Advanced GSAP Animations & Interactive UI
-- 🤖 AI-Powered Web Applications
-- 📱 Responsive & Accessible Experiences
-
-### 🌱 Learning
-- 📚 Machine Learning & Deep Learning
-- 🔬 TensorFlow & PyTorch
-- ⚡ System Design & Architecture
-- 🎯 Cloud Computing (AWS/Azure)
-
-    </td>
-    <td width="50%" valign="top">
-      
-### 👯 Open to Collaborate
-- 💡 Open-source projects
-- 🎓 Mentorship opportunities
-- 🤝 Innovative partnerships
-- 🚀 Startup MVPs
-
-### 💬 Ask Me About
-- ⚛️ React & Next.js
-- 🎭 GSAP & Three.js
-- 🔧 MERN Stack
-- 🤖 AI/ML Integration
-
-    </td>
-  </tr>
-</table>
-
----
-
-## 📊 GitHub Stats
-
+<!-- Animated Hero Section -->
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Arghyadevs&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F5FF&ring=00F5FF&fire=FF6B35&currStreakLabel=00F5FF&sideLabels=00F5FF" alt="GitHub Streak" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api?username=Arghyadevs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF6B35&text_color=FFFFFF" alt="GitHub Stats" width="49%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=200&section=header&text=Arghyadip%20Pakhira&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35" />
+
+<!-- Animated Profile with Glow -->
+<img src="https://instagram.fccu13-4.fna.fbcdn.net/v/t51.2885-19/598062250_18184051786357645_99092902954876179_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fccu13-4.fna.fbcdn.net&_nc_cat=101&_nc_oc=Q6cZ2QHjJelk9HcI8WJ2G8mVoG61T_KX3AQZ_kP24a34L9Ray4adYzXrjpzfJtEcc1uHcgh_TRRA3R9PtO9XhWUm4YSE&_nc_ohc=haeRF2XlNlQQ7kNvwFPYfaU&_nc_gid=HRFRslN1-wSKWYM3mWAXfg&edm=APoiHPcBAAAA&ccb=7-5&oh=00_AfkFQuec_ueuwKnpMnaybkxycYjUmyqLOhyqYnAdD1uwCg&oe=695980FC&_nc_sid=22de04" alt="Profile" width="180" style="border-radius: 50%; border: 4px solid #00F5FF; box-shadow: 0 0 40px rgba(0, 245, 255, 0.8);" />
+
+<!-- Dynamic Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&duration=2800&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Frontend+Developer+%F0%9F%92%BB;AI%2FML+Enthusiast+%F0%9F%A4%96;React+%7C+Next.js+%7C+TypeScript+%E2%9A%9B%EF%B8%8F;Building+The+Future+%F0%9F%9A%80;GSAP+%7C+Three.js+%7C+WebGL+%E2%9C%A8" alt="Typing SVG" />
+
+<br>
+
+<!-- Animated Badges -->
+<img src="https://komarev.com/ghpvc/?username=Arghyadevs&label=Profile%20Views&color=00F5FF&style=for-the-badge" alt="Views" />
+<img src="https://img.shields.io/github/followers/Arghyadevs?label=Followers&style=for-the-badge&color=00F5FF&logo=github" alt="Followers" />
+<img src="https://img.shields.io/badge/Status-Available%20For%20Hire-brightgreen?style=for-the-badge" alt="Hire" />
+
+<br><br>
+
+<!-- Social Connect -->
+<a href="https://linkedin.com/in/arghyadip-pakhira"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://twitter.com/arghya_dip7"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="mailto:arghyadip.info@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://arghyadevs.me"><img src="https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+
+</div>
+
+<br>
+
+<!-- Coding GIF -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600" />
+</div>
+
+
+---
+
+<!-- GitHub Stats with Animation -->
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Arghyadevs&theme=neon-dark&hide_border=true&stroke=00F5FF&ring=00F5FF&fire=FF6B35&currStreakLabel=00F5FF&sideLabels=FFFFFF&background=000000" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Arghyadevs&show_icons=true&theme=neon&hide_border=true&bg_color=000000&title_color=00F5FF&icon_color=FF6B35&text_color=FFFFFF&ring_color=00F5FF" width="49%" />
+
+</div>
+
+<br>
+
+<!-- Tech Stack Icons -->
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,nodejs,express,mongodb,python,tensorflow,pytorch,git,docker,aws,vscode,figma&perline=8&theme=dark" />
+
+</div>
+
+<br>
+
+<!-- Animated Tech Badges -->
+<div align="center">
+
+<img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
+<img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+<img src="https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white" />
+<img src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white" />
+<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+
+</div>
 
 <br>
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Arghyadevs&bg_color=0D1117&color=00F5FF&line=FF6B35&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" width="98%" alt="Activity Graph" />
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Arghyadevs&bg_color=000000&color=00F5FF&line=FF6B35&point=FFFFFF&area=true&hide_border=true&theme=github-dark" width="98%" />
 
 </div>
 
+
+
+
 ---
 
-## 🏆 Achievements
-
+<!-- Featured Projects -->
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <a href="https://www.leetcode.com/arghyadevs7" target="_blank">
-        <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-      </a>
-      <br><b>200+ Problems</b>
-    </td>
-    <td align="center" width="25%">
-      <a href="https://www.hackerrank.com/arghyadip_info" target="_blank">
-        <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-      </a>
-      <br><b>5⭐ Solver</b>
-    </td>
-    <td align="center" width="25%">
-      <a href="https://auth.geeksforgeeks.org/user/arghya_devs" target="_blank">
-        <img src="https://img.shields.io/badge/GeeksforGeeks-148F6C?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-      </a>
-      <br><b>Rank 1</b>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-      <br><b>3⭐ Coder</b>
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
-## 🛠️ Tech Stack
-
-### Frontend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,html,css,sass,redux&perline=9" />
-</p>
-
-### Backend & Database
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql,firebase,prisma,graphql&perline=8" />
-</p>
-
-### AI/ML & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,git,docker,aws,vscode,figma&perline=8" />
-</p>
-
-### Animation & Graphics
-<p align="left">
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
-  <img src="https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white" />
-</p>
-
----
-
-## 🔥 Featured Projects
-
-<div align="center">
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🌟 HorizonEase</h3>
-      <div align="center">
-        <a href="https://horizonease.vercel.app" target="_blank">
-          <img src="https://img.shields.io/badge/Live_Demo-00F5FF?style=for-the-badge" />
-        </a>
-        <a href="https://github.com/Arghyadevs/horizonease" target="_blank">
-          <img src="https://img.shields.io/badge/Repository-FF6B35?style=for-the-badge&logo=github" />
-        </a>
-        <br><br>
-        <p><strong>Modern Web Solutions Platform</strong></p>
-        <p>
-          <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react" />
-          <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js" />
-          <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css" />
-        </p>
-        <p>Full-stack platform with stunning animations, responsive design, and optimized performance.</p>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🛡️ SentinelX</h3>
-      <div align="center">
-        <a href="https://github.com/Arghyadevs/SentinelX" target="_blank">
-          <img src="https://img.shields.io/badge/View_Code-FF6B35?style=for-the-badge&logo=github" />
-        </a>
-        <br><br>
-        <p><strong>AI-Powered Security System</strong></p>
-        <p>
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python" />
-          <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow" />
-          <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv" />
-        </p>
-        <p>Advanced ML-based security with real-time object detection and facial recognition.</p>
-      </div>
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
-## 📝 Latest Blog Posts
-
-<div align="center">
-
-<a href="https://medium.com/@arghyadevs" target="_blank">
-  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-</a>
-<a href="https://dev.to/arghyadevs" target="_blank">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
-</a>
-<a href="https://hashnode.com/@arghyadevs" target="_blank">
-  <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&width=600&lines=%F0%9F%94%A5+Featured+Projects" />
 
 <br><br>
 
-<!-- BLOG-POST-LIST:START -->- 🚀 **How DRM Secures Online Education: Behind the Scenes of Video Streaming on PW Live &amp; PenPencil**- 🚀 **How Smart Traffic Systems Are Revolutionizing Urban Mobility**<!-- BLOG-POST-LIST:END -->
+<table>
+  <tr>
+    <td width="50%">
+      <br>
+      <img src="https://img.shields.io/badge/HorizonEase-00F5FF?style=for-the-badge&logoColor=white" />
+      <br><br>
+      <a href="https://horizonease.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel" /></a>
+      <a href="https://github.com/Arghyadevs/horizonease"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github" /></a>
+      <br><br>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js" />
+      <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock" />
+      <br>
+    </td>
+    <td width="50%">
+      <br>
+      <img src="https://img.shields.io/badge/SentinelX-FF6B35?style=for-the-badge&logoColor=white" />
+      <br><br>
+      <a href="https://github.com/Arghyadevs/SentinelX"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github" /></a>
+      <br><br>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python" />
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow" />
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv" />
+      <br>
+    </td>
+  </tr>
+</table>
 
 </div>
 
+<br>
+
+<!-- Coding Platforms -->
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=%F0%9F%8F%86+Coding+Profiles" />
+
+<br><br>
+
+<a href="https://www.leetcode.com/arghyadevs7"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+<a href="https://www.hackerrank.com/arghyadip_info"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
+<a href="https://auth.geeksforgeeks.org/user/arghya_devs"><img src="https://img.shields.io/badge/GeeksforGeeks-148F6C?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
+<a href="https://www.codechef.com/users/arghyadevs"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
+
+<br>
+
+<img src="https://img.shields.io/badge/200%2B-Problems_Solved-FFA116?style=flat-square" />
+<img src="https://img.shields.io/badge/5%E2%AD%90-HackerRank-2EC866?style=flat-square" />
+<img src="https://img.shields.io/badge/Rank_1-Institute-148F6C?style=flat-square" />
+
+</div>
+
+
+
+
 ---
 
-## 🐍 Contribution Graph
+<!-- Snake Animation -->
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arghyadevs/Arghyadevs/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arghyadevs/Arghyadevs/output/github-snake.svg">
-  <img alt="snake animation" src="https://raw.githubusercontent.com/Arghyadevs/Arghyadevs/output/github-snake.svg">
+  <img alt="snake animation" src="https://raw.githubusercontent.com/Arghyadevs/Arghyadevs/output/github-snake.svg" width="100%">
 </picture>
-
----
-
-## 💡 Random Dev Quote
-
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
----
+<br>
 
-## 🤝 Let's Connect
-
+<!-- Random Quote -->
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://linkedin.com/in/arghyadip-pakhira" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://twitter.com/arghya_dip7" target="_blank">
-        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://instagram.com/arghya_dip7" target="_blank">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="mailto:arghyadip.info@gmail.com">
-        <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-      </a>
-    </td>
-  </tr>
-</table>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" />
+
+</div>
 
 <br>
 
-<a href="https://arghyadevs.vercel.app/assets/Arghyadip_Pakhira_CV.pdf" target="_blank">
-  <img src="https://img.shields.io/badge/📄_Download_Resume-00F5FF?style=for-the-badge" />
-</a>
-<a href="https://arghyadevs.me" target="_blank">
-  <img src="https://img.shields.io/badge/🌐_Visit_Portfolio-FF6B35?style=for-the-badge" />
+<!-- Connect Section -->
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&width=600&lines=%F0%9F%A4%9D+Let's+Connect!" />
+
+<br><br>
+
+<a href="https://linkedin.com/in/arghyadip-pakhira"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://twitter.com/arghya_dip7"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://instagram.com/arghya_dip7"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="mailto:arghyadip.info@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<br><br>
+
+<a href="https://medium.com/@arghyadevs"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+<a href="https://dev.to/arghyadevs"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /></a>
+<a href="https://hashnode.com/@arghyadevs"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
+
+<br><br>
+
+<a href="https://arghyadevs.vercel.app/assets/Arghyadip_Pakhira_CV.pdf"><img src="https://img.shields.io/badge/%F0%9F%93%84_Resume-00F5FF?style=for-the-badge" /></a>
+<a href="https://arghyadevs.me"><img src="https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-FF6B35?style=for-the-badge" /></a>
+
+<br><br>
+
+<!-- Support -->
+<a href="https://www.buymeacoffee.com/arghyadevs">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" />
 </a>
 
 <br><br>
 
-### 💖 Support My Work
-
-<a href="https://www.buymeacoffee.com/arghyadevs" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" />
-</a>
+<img src="https://visitcount.itsvg.in/api?id=Arghyadevs&icon=5&color=6&pretty=true" />
 
 <br><br>
 
-<img src="https://visitcount.itsvg.in/api?id=Arghyadevs&icon=5&color=0" alt="Visit Count" />
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=120&section=footer" />
 
 <br>
 
-<i>✨ Made with ❤️ by Arghyadip Pakhira</i>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=16&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Made+with+%E2%9D%A4%EF%B8%8F+by+Arghyadip+Pakhira;Thanks+for+visiting!+%F0%9F%91%8B;Let's+build+something+amazing!+%F0%9F%9A%80" />
 
 </div>
