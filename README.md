@@ -16,7 +16,7 @@
 <td width="40%" align="center">
 
 <!-- Circular Glowing Avatar -->
-<img src="https://instagram.fccu20-1.fna.fbcdn.net/v/t51.2885-19/611612996_18186421909357645_1083590119448731191_n.jpg?efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fccu20-1.fna.fbcdn.net&_nc_cat=101&_nc_oc=Q6cZ2QE4yj00eETNYlXebPdo8XsfluLqkh4kkVQelPqB9i_YxsYPwWVM6xAxty_GhaiYuNuy4kx4y1a_KTlB8A820v9J&_nc_ohc=LziM3c4MLPUQ7kNvwF8yyDg&_nc_gid=TU0DI4PxkMXFBSZ44G9GRg&edm=APoiHPcBAAAA&ccb=7-5&oh=00_Afpwazg_G7ufhhp0MnEURP7Hf9jlbHqBmSQBqXoINa3FsQ&oe=696D85CB&_nc_sid=22de04" width="250px" style="border-radius: 50%; border: 5px solid #6C63FF; box-shadow: 0 0 50px #6C63FF;" />
+<img src="assets/profile.jpg" width="250px" style="border-radius: 50%; border: 5px solid #6C63FF; box-shadow: 0 0 50px #6C63FF;" />
 
 <br><br>
 
@@ -306,6 +306,54 @@ const arghyadip = {
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arghyadevs/Arghyadevs/output/github-snake.svg">
   <img alt="snake animation" src="https://raw.githubusercontent.com/Arghyadevs/Arghyadevs/output/github-snake.svg" width="100%">
 </picture>
+
+</div>
+
+<br>
+
+<!-- Star History & Spotify -->
+<table>
+<tr>
+<td width="50%">
+
+<!-- Star History -->
+<img src="https://api.star-history.com/svg?repos=Arghyadevs/horizonease,Arghyadevs/SentinelX&type=Date&theme=dark" width="100%" />
+
+</td>
+<td width="50%">
+
+<!-- Spotify Playing Status -->
+<a href="https://spotify-github-profile.vercel.app/api/view?uid=arghyadip&cover_image=true&theme=novatorem&show=false&play=false">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=arghyadip&cover_image=true&theme=novatorem&show=false&play=false" width="100%" />
+</a>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- Recent Blog Posts -->
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=35&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=📝+Latest+Blog+Posts" />
+
+<br>
+
+<!-- Blog posts will be auto-updated by GitHub Action -->
+<!-- @start -->
+- 🚀 **HorizonEase: Crafting Digital Experiences with Modern Web Technologies**
+- 🚀 **SentinelX: AI-Powered Security & Surveillance System**
+- 🚀 **Building Modern Web Applications with React & GSAP**
+- 🚀 **Getting Started with Machine Learning Using TensorFlow**
+- 🚀 **3D Graphics on the Web with Three.js**
+<!-- @end -->
+
+<br>
+
+<a href="https://medium.com/@arghyadevs">
+  <img src="https://img.shields.io/badge/Read_More_on_Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
+</a>
 
 </div>
 
