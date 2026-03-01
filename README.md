@@ -114,9 +114,82 @@ const arghyadip = {
 ## WakaTime
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-24%20hrs%2016%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.81%20million%20lines%20of%20code-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 411.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 21 Contributions in the Year 2026
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 22 Public Repositories 
+ > 
+> 🔑 25 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
 ```text
-Stats will be updated automatically.
+🌞 Morning                212 commits         █████████░░░░░░░░░░░░░░░░   36.30 % 
+🌆 Daytime                103 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.64 % 
+🌃 Evening                205 commits         █████████░░░░░░░░░░░░░░░░   35.10 % 
+🌙 Night                  64 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
 ```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   57 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
+Tuesday                  183 commits         ████████░░░░░░░░░░░░░░░░░   31.34 % 
+Wednesday                44 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
+Thursday                 81 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
+Friday                   55 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
+Saturday                 109 commits         █████░░░░░░░░░░░░░░░░░░░░   18.66 % 
+Sunday                   55 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+SQL                      41 mins             ███████████████████████░░   91.84 % 
+Other                    3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
+
+🔥 Editors: 
+VS Code                  45 mins             █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+DBMS_LAB                 45 mins             █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      45 mins             █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in HTML** 
+
+```text
+HTML                     16 repos            ██████████░░░░░░░░░░░░░░░   40.00 % 
+TypeScript               11 repos            ███████░░░░░░░░░░░░░░░░░░   27.50 % 
+JavaScript               6 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/Arghyadevs/Arghyadevs/main/assets/bar_graph.png)
+
+
+ Last Updated on 01/03/2026 06:04:30 UTC
 <!--END_SECTION:waka-->
 
 ## Collaboration
