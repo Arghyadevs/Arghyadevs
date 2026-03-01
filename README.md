@@ -109,13 +109,7 @@ const arghyadip = {
 
 ## Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-- Exploring modern full-stack architecture with Next.js and Node.js
-- Building animation-rich interfaces without sacrificing performance
-- AI-powered workflows for practical production use cases
-- Clean API design patterns for scalable systems
-- TypeScript strategies for safer large codebases
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- 🚀 **How DRM Secures Online Education: Behind the Scenes of Video Streaming on PW Live &amp; PenPencil**- 🚀 **How Smart Traffic Systems Are Revolutionizing Urban Mobility**<!-- BLOG-POST-LIST:END -->
 
 ## WakaTime
 
