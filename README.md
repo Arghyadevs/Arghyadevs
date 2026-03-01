@@ -4,6 +4,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=700&color=22D3EE&center=true&vCenter=true&width=900&lines=Clean+code.+Fast+products.+Reliable+systems.;Frontend+craft+%2B+Backend+engineering+%2B+AI+workflows" alt="typing" />
 
   <p>
+    <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="46%" alt="animated coding scene" />
+    <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="46%" alt="animated terminal scene" />
+  </p>
+
+  <p>
     <img src="https://komarev.com/ghpvc/?username=Arghyadevs&style=for-the-badge&color=0ea5e9" alt="profile views" />
     <img src="https://img.shields.io/github/followers/Arghyadevs?style=for-the-badge&color=06b6d4&labelColor=0f172a" alt="followers" />
   </p>
