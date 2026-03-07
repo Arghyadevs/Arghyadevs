@@ -1,81 +1,193 @@
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║                 🌌  SPACE COMMAND CENTER  🌌               ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0ea5e9,50:06b6d4,100:0284c7&text=Arghyadip%20Pakhira&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=37&desc=Full-Stack%20Developer%20%7C%20AI%20Builder%20%7C%20Creative%20Engineer&descAlignY=58&descSize=18" alt="header" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=700&color=22D3EE&center=true&vCenter=true&width=900&lines=Clean+code.+Fast+products.+Reliable+systems.;Frontend+craft+%2B+Backend+engineering+%2B+AI+workflows" alt="typing" />
+  <!-- ═══════ HEADER — DEEP SPACE GRADIENT BANNER ═══════ -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:020024,25:090979,50:0c1445,75:1a0533,100:00d4ff&text=⟨%20Arghyadip%20Pakhira%20/⟩&fontColor=00d4ff&fontSize=45&animation=fadeIn&fontAlignY=33&desc=🛰️%20Full-Stack%20Cosmonaut%20%7C%20AI%20Architect%20%7C%20Systems%20Engineer&descAlignY=55&descSize=16&descColor=a78bfa&stroke=00d4ff&strokeWidth=2" alt="header" width="100%" />
 
+  <br>
+
+  <!-- ═══════ ANIMATED TYPING — COSMIC TAGLINES ═══════ -->
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=90&lines=%E2%9C%A8+Navigating+the+cosmos+of+code...;%F0%9F%9A%80+Deploying+systems+at+the+speed+of+light;%F0%9F%94%AD+Exploring+AI+frontiers+beyond+the+stars;%F0%9F%8C%8C+Building+the+future%2C+one+commit+at+a+time" alt="Typing SVG" /></a>
+
+  <br><br>
+
+  <!-- ═══════ SPACE HERO ANIMATION ═══════ -->
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f15b36f93.gif" width="90%" alt="space programmer" />
+
+  <br><br>
+
+  <!-- ═══════ BADGES — SPACE THEMED ═══════ -->
   <p>
-    <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="72%" alt="animated terminal scene" />
-    <br><br>
-    <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="72%" alt="animated coding scene" />
+    <img src="https://komarev.com/ghpvc/?username=Arghyadevs&style=for-the-badge&color=020024&label=🛸+ORBITAL+VIEWS&labelColor=090979" alt="profile views" />
+    <img src="https://img.shields.io/github/followers/Arghyadevs?style=for-the-badge&color=00d4ff&labelColor=020024&label=👨‍🚀+CREW+MEMBERS" alt="followers" />
+    <img src="https://img.shields.io/github/stars/Arghyadevs?affiliations=OWNER&style=for-the-badge&color=a78bfa&labelColor=020024&label=⭐+STARLIGHT" alt="stars" />
   </p>
 
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=Arghyadevs&style=for-the-badge&color=0ea5e9" alt="profile views" />
-    <img src="https://img.shields.io/github/followers/Arghyadevs?style=for-the-badge&color=06b6d4&labelColor=0f172a" alt="followers" />
-  </p>
-
+  <!-- ═══════ SOCIAL LINKS ═══════ -->
   <p>
     <a href="https://linkedin.com/in/arghyadip-pakhira"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://twitter.com/arghya_dip7"><img src="https://img.shields.io/badge/Twitter-1D9BF0?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
-    <a href="https://arghyadevs.me"><img src="https://img.shields.io/badge/Portfolio-0891b2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
-    <a href="mailto:arghyadip.info@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://twitter.com/arghya_dip7"><img src="https://img.shields.io/badge/𝕏_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
+    <a href="https://arghyadevs.me"><img src="https://img.shields.io/badge/🌐_Portfolio-00d4ff?style=for-the-badge&logoColor=020024" alt="Portfolio" /></a>
+    <a href="mailto:arghyadip.info@gmail.com"><img src="https://img.shields.io/badge/📡_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   </p>
+
 </div>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="95%" alt="divider" />
-</p>
+<!-- ═══════ COSMIC DIVIDER ═══════ -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider" />
 
-## About
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║                 👨‍🚀 MISSION CONTROL                        ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> &nbsp;Mission Control
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a8f28-3f52-4476-b312-e56c53aea52b.gif" width="400" alt="satellite" align="right" />
+</div>
 
 ```ts
-const arghyadip = {
-  role: "Full-Stack Developer",
-  location: "India",
-  focus: ["Scalable web apps", "AI integrations", "Interactive UI"],
-  stack: ["React", "Next.js", "TypeScript", "Node.js", "Python", "Docker"],
-  motto: "Build clean. Ship fast."
+const astronaut = {
+  name       : "Arghyadip Pakhira",
+  callsign   : "@Arghyadevs",
+  mission    : "Full-Stack Developer & AI Engineer",
+  base       : "India 🇮🇳",
+  objectives : [
+    "🛰️ Building scalable distributed systems",
+    "🤖 Integrating AI into real-world products",
+    "🎨 Crafting pixel-perfect interactive UIs",
+    "☁️ Deploying infrastructure to the cloud",
+  ],
+  techStack  : ["React", "Next.js", "TypeScript",
+                "Node.js", "Python", "Docker"],
+  motto      : "Build clean. Ship fast. Reach orbit. 🚀",
 };
 ```
 
-## Tech Stack
+<br clear="both" />
+
+<!-- ═══════ COSMIC DIVIDER ═══════ -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider" />
+
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║                 🛸 TECH ARSENAL                              ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+## <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="30" /> &nbsp;Tech Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,threejs,nodejs,express,python,fastapi,mongodb,postgresql,redis,docker,aws,git,githubactions,vercel&perline=9" alt="tech stack" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80" alt="react" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80" alt="python" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="80" alt="css" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80" alt="vim" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="80" alt="node" />
+  <img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" width="80" alt="git" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2571c1cd.gif" width="80" alt="dart" />
+  <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52f1adb1c5a.gif" width="80" alt="git2" />
 </p>
-
-## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arghyadevs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=22d3ee&icon_color=06b6d4&text_color=e2e8f0&include_all_commits=true&count_private=true" width="49%" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arghyadevs&theme=tokyonight&hide_border=true&background=0f172a&ring=22d3ee&fire=06b6d4&currStreakLabel=22d3ee" width="49%" alt="streak" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,threejs,nodejs,express,python,fastapi&perline=9" alt="frontend + backend" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,redis,docker,aws,git,githubactions,vercel,linux&perline=9" alt="infra + tools" />
+</p>
+
+<!-- ═══════ COSMIC DIVIDER ═══════ -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider" />
+
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║                 📡 GITHUB TELEMETRY                          ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+## <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52f1adb1c5a.gif" width="30" /> &nbsp;GitHub Telemetry
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Arghyadevs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020024&title_color=00d4ff&icon_color=a78bfa&text_color=c9d1d9&include_all_commits=true&count_private=true&rank_icon=github" width="49%" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=Arghyadevs&theme=tokyonight&hide_border=true&background=020024&ring=00d4ff&fire=a78bfa&currStreakLabel=00d4ff&sideLabels=a78bfa&dates=6e7681" width="49%" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arghyadevs&theme=react-dark&hide_border=true&bg_color=0f172a&color=22d3ee&line=06b6d4&point=e2e8f0&area=true&custom_title=Contribution%20Activity" width="100%" alt="activity graph" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Arghyadevs&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=020024&title_color=00d4ff&text_color=c9d1d9&langs_count=8" width="38%" alt="Top Languages" />
 </p>
 
-## Featured Projects
+<!-- ═══════ COSMIC DIVIDER ═══════ -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider" />
+
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║                 🌌 CONTRIBUTION GALAXY                       ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30" /> &nbsp;Contribution Galaxy
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arghyadevs&theme=react-dark&hide_border=true&bg_color=020024&color=00d4ff&line=a78bfa&point=ffffff&area=true&area_color=00d4ff&custom_title=🌌%20Stellar%20Contribution%20Map" width="100%" alt="activity graph" />
+</p>
+
+<p align="center">
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution" />
+</p>
+
+<!-- ═══════ COSMIC DIVIDER ═══════ -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider" />
+
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║                 🔭 FEATURED MISSIONS                         ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+## <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37a7-4f43-9c36-39e3f2b55154.gif" width="30" /> &nbsp;Featured Missions
 
 <p align="center">
   <a href="https://github.com/Arghyadevs/horizonease">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arghyadevs&repo=horizonease&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=22d3ee&icon_color=06b6d4&text_color=e2e8f0" alt="HorizonEase" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Arghyadevs&repo=horizonease&theme=tokyonight&hide_border=true&bg_color=020024&title_color=00d4ff&icon_color=a78bfa&text_color=c9d1d9" alt="HorizonEase" />
   </a>
   <a href="https://github.com/Arghyadevs/SentinelX">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arghyadevs&repo=SentinelX&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=22d3ee&icon_color=06b6d4&text_color=e2e8f0" alt="SentinelX" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Arghyadevs&repo=SentinelX&theme=tokyonight&hide_border=true&bg_color=020024&title_color=00d4ff&icon_color=a78bfa&text_color=c9d1d9" alt="SentinelX" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/Arghyadevs/AlgoInfluencers">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Arghyadevs&repo=AlgoInfluencers&theme=tokyonight&hide_border=true&bg_color=020024&title_color=00d4ff&icon_color=a78bfa&text_color=c9d1d9" alt="AlgoInfluencers" />
   </a>
 </p>
 
-## Animation Zone (Inspired by Cool-GIFs)
+<!-- ═══════ COSMIC DIVIDER ═══════ -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider" />
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="48%" alt="typing cat" />
-  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="48%" alt="dino game" />
-</p>
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║                 📝 LATEST TRANSMISSIONS                     ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
-<p align="center">
-  <img src="profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D contribution" />
-</p>
+## 📡 &nbsp;Latest Transmissions
+
+<!-- BLOG-POST-LIST:START -->
+_🛰️ Scanning for incoming transmissions..._
+<!-- BLOG-POST-LIST:END -->
+
+<!-- ═══════ COSMIC DIVIDER ═══════ -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider" />
+
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║                 ⏱️ DEV METRICS                               ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+## ⏱️ &nbsp;Dev Metrics — WakaTime
+
+<!--START_SECTION:waka-->
+_🔭 Calibrating deep-space sensors..._
+<!--END_SECTION:waka-->
+
+<!-- ═══════ COSMIC DIVIDER ═══════ -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider" />
+
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║                 🐍 SNAKE ANIMATION                           ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+## 🐍 &nbsp;Watch the Snake Devour My Contributions
 
 <p align="center">
   <picture>
@@ -85,13 +197,57 @@ const arghyadip = {
   </picture>
 </p>
 
-## Connect
+<!-- ═══════ COSMIC DIVIDER ═══════ -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider" />
+
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║                 📊 FULL METRICS                               ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+## 📊 &nbsp;Full Mission Metrics
 
 <p align="center">
-  <a href="https://arghyadevs.me"><img src="https://img.shields.io/badge/Visit%20Portfolio-0891b2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="portfolio" /></a>
-  <a href="mailto:arghyadip.info@gmail.com"><img src="https://img.shields.io/badge/Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
+  <img src="github-metrics.svg" alt="github metrics" width="100%" />
 </p>
 
+<!-- ═══════ COSMIC DIVIDER ═══════ -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider" />
+
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║                 🌠 SPACE ANIMATIONS                          ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+## <img src="https://user-images.githubusercontent.com/74038190/235294007-de441046-823e-4571-811c-8f286a523d5c.gif" width="30" /> &nbsp;Space Zone
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="350" alt="tech boy" />
+  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="350" alt="rocket" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="matrix rain" />
+</p>
+
+<!-- ═══════ COSMIC DIVIDER ═══════ -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider" />
+
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║                 🌐 CONNECT                                   ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0ea5e9,50:06b6d4,100:0284c7" alt="footer" />
+
+  <h3>🌐 Let's Connect Across the Galaxy</h3>
+
+  <p>
+    <a href="https://arghyadevs.me"><img src="https://img.shields.io/badge/🔭_Visit_My_Station-00d4ff?style=for-the-badge&logoColor=020024" alt="portfolio" /></a>
+    <a href="mailto:arghyadip.info@gmail.com"><img src="https://img.shields.io/badge/📡_Send_Transmission-EA4335?style=for-the-badge&logoColor=white" alt="email" /></a>
+    <a href="https://linkedin.com/in/arghyadip-pakhira"><img src="https://img.shields.io/badge/🛰️_LinkedIn-0A66C2?style=for-the-badge&logoColor=white" alt="LinkedIn" /></a>
+  </p>
+
+  <br>
+
+  <!-- ═══════ FOOTER — DEEP SPACE GRADIENT ═══════ -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00d4ff,25:090979,50:0c1445,75:1a0533,100:020024&stroke=00d4ff&strokeWidth=1" alt="footer" width="100%" />
+
 </div>
