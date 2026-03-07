@@ -141,16 +141,19 @@ const astronaut = {
 ## <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37a7-4f43-9c36-39e3f2b55154.gif" width="30" /> &nbsp;Featured Missions
 
 <p align="center">
-  <a href="https://github.com/Arghyadevs/horizonease">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Arghyadevs&repo=horizonease&theme=tokyonight&hide_border=true&bg_color=020024&title_color=00d4ff&icon_color=a78bfa&text_color=c9d1d9" alt="HorizonEase" />
+  <a href="https://github.com/Arghyadevs/CampusSite">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Arghyadevs&repo=CampusSite&theme=tokyonight&hide_border=true&bg_color=020024&title_color=00d4ff&icon_color=a78bfa&text_color=c9d1d9" alt="CampusSite" />
   </a>
   <a href="https://github.com/Arghyadevs/SentinelX">
     <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Arghyadevs&repo=SentinelX&theme=tokyonight&hide_border=true&bg_color=020024&title_color=00d4ff&icon_color=a78bfa&text_color=c9d1d9" alt="SentinelX" />
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/Arghyadevs/AlgoInfluencers">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Arghyadevs&repo=AlgoInfluencers&theme=tokyonight&hide_border=true&bg_color=020024&title_color=00d4ff&icon_color=a78bfa&text_color=c9d1d9" alt="AlgoInfluencers" />
+  <a href="https://github.com/Arghyadevs/CIRCLO_SOCIAL">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Arghyadevs&repo=CIRCLO_SOCIAL&theme=tokyonight&hide_border=true&bg_color=020024&title_color=00d4ff&icon_color=a78bfa&text_color=c9d1d9" alt="CIRCLO_SOCIAL" />
+  </a>
+  <a href="https://github.com/Arghyadevs/Indian-Army">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Arghyadevs&repo=Indian-Army&theme=tokyonight&hide_border=true&bg_color=020024&title_color=00d4ff&icon_color=a78bfa&text_color=c9d1d9" alt="Indian-Army" />
   </a>
 </p>
 
