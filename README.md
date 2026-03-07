@@ -175,7 +175,87 @@ const astronaut = {
 ## ⏱️ &nbsp;Dev Metrics — WakaTime
 
 <!--START_SECTION:waka-->
-_🔭 Calibrating deep-space sensors..._
+![Code Time](http://img.shields.io/badge/Code%20Time-25%20hrs%2024%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.97%20million%20lines%20of%20code-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 460.4 kB Used in GitHub's Storage 
+ > 
+> 🏆 30 Contributions in the Year 2026
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 23 Public Repositories 
+ > 
+> 🔑 26 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                212 commits         █████████░░░░░░░░░░░░░░░░   34.81 % 
+🌆 Daytime                110 commits         █████░░░░░░░░░░░░░░░░░░░░   18.06 % 
+🌃 Evening                218 commits         █████████░░░░░░░░░░░░░░░░   35.80 % 
+🌙 Night                  69 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   61 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
+Tuesday                  183 commits         ████████░░░░░░░░░░░░░░░░░   30.05 % 
+Wednesday                47 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
+Thursday                 81 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
+Friday                   64 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
+Saturday                 112 commits         █████░░░░░░░░░░░░░░░░░░░░   18.39 % 
+Sunday                   61 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+Bash                     21 mins             ████████░░░░░░░░░░░░░░░░░   31.14 % 
+Markdown                 18 mins             ███████░░░░░░░░░░░░░░░░░░   27.84 % 
+TypeScript               16 mins             ██████░░░░░░░░░░░░░░░░░░░   24.40 % 
+Other                    8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
+C++                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
+
+🔥 Editors: 
+VS Code                  1 hr 8 mins         █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+creAItr.                 35 mins             █████████████░░░░░░░░░░░░   52.55 % 
+campusOS                 16 mins             ██████░░░░░░░░░░░░░░░░░░░   24.48 % 
+AlgoInfluencers          15 mins             ██████░░░░░░░░░░░░░░░░░░░   22.96 % 
+
+💻 Operating System: 
+Mac                      1 hr 8 mins         █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in HTML** 
+
+```text
+HTML                     16 repos            █████████░░░░░░░░░░░░░░░░   37.21 % 
+TypeScript               14 repos            ████████░░░░░░░░░░░░░░░░░   32.56 % 
+JavaScript               6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
+Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/Arghyadevs/Arghyadevs/main/assets/bar_graph.png)
+
+
+ Last Updated on 07/03/2026 19:14:49 UTC
 <!--END_SECTION:waka-->
 
 <!-- ═══════ COSMIC DIVIDER ═══════ -->
