@@ -21,9 +21,9 @@
 
   <!-- ═══════ BADGES — SPACE THEMED ═══════ -->
   <p>
-    <img src="https://komarev.com/ghpvc/?username=Arghyadevs&style=for-the-badge&color=020024&label=🛸+ORBITAL+VIEWS&labelColor=090979" alt="profile views" />
-    <img src="https://img.shields.io/github/followers/Arghyadevs?style=for-the-badge&color=00d4ff&labelColor=020024&label=👨‍🚀+CREW+MEMBERS" alt="followers" />
-    <img src="https://img.shields.io/github/stars/Arghyadevs?affiliations=OWNER&style=for-the-badge&color=a78bfa&labelColor=020024&label=⭐+STARLIGHT" alt="stars" />
+    <img src="https://komarev.com/ghpvc/?username=Arghyadevs&style=for-the-badge&color=020024&label=ORBITAL+VIEWS&labelColor=090979" alt="profile views" />
+    <img src="https://img.shields.io/github/followers/Arghyadevs?style=for-the-badge&color=00d4ff&labelColor=020024&label=CREW+MEMBERS" alt="followers" />
+    <img src="https://img.shields.io/github/stars/Arghyadevs?affiliations=OWNER&style=for-the-badge&color=a78bfa&labelColor=020024&label=STARLIGHT" alt="stars" />
   </p>
 
   <!-- ═══════ SOCIAL LINKS ═══════ -->
