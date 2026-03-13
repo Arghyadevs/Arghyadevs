@@ -223,24 +223,22 @@ Sunday                   64 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-SQL                      1 hr                ██████████████░░░░░░░░░░░   56.08 % 
-TypeScript               17 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.93 % 
-Other                    7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
-Bash                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
-JSON                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
+SQL                      1 hr                ████████████████████░░░░░   80.19 % 
+Bash                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
+JSON                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
+Python                   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
 
 🔥 Editors: 
-VS Code                  1 hr 47 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 15 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-DBMS_LAB                 1 hr                ██████████████░░░░░░░░░░░   56.08 % 
-campusOS                 16 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
-AlgoInfluencers          15 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
-CIRCLO_SOCIAL            9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
-SentinelX                5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
+DBMS_LAB                 1 hr                ████████████████████░░░░░   80.19 % 
+CIRCLO_SOCIAL            9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
+SentinelX                5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
 
 💻 Operating System: 
-Mac                      1 hr 47 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 15 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -260,7 +258,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Arghyadevs/Arghyadevs/main/assets/bar_graph.png)
 
 
- Last Updated on 13/03/2026 18:31:52 UTC
+ Last Updated on 13/03/2026 18:33:30 UTC
 <!--END_SECTION:waka-->
 
 <!-- ═══════ COSMIC DIVIDER ═══════ -->
