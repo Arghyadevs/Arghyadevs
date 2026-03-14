@@ -223,22 +223,21 @@ Sunday                   64 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-SQL                      1 hr                ████████████████████░░░░░   80.19 % 
-Bash                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
-JSON                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
-Python                   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+SQL                      1 hr                ██████████████████████░░░   86.75 % 
+Bash                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
+JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 
 🔥 Editors: 
-VS Code                  1 hr 15 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 9 mins         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-DBMS_LAB                 1 hr                ████████████████████░░░░░   80.19 % 
-CIRCLO_SOCIAL            9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
-SentinelX                5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
+DBMS_LAB                 1 hr                ██████████████████████░░░   86.75 % 
+CIRCLO_SOCIAL            9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
 
 💻 Operating System: 
-Mac                      1 hr 15 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 9 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -258,7 +257,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Arghyadevs/Arghyadevs/main/assets/bar_graph.png)
 
 
- Last Updated on 14/03/2026 18:31:21 UTC
+ Last Updated on 14/03/2026 18:32:35 UTC
 <!--END_SECTION:waka-->
 
 <!-- ═══════ COSMIC DIVIDER ═══════ -->
