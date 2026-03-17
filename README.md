@@ -196,6 +196,49 @@ const astronaut = {
  > 
 > 🔑 26 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                212 commits         █████████░░░░░░░░░░░░░░░░   34.30 % 
+🌆 Daytime                112 commits         █████░░░░░░░░░░░░░░░░░░░░   18.12 % 
+🌃 Evening                222 commits         █████████░░░░░░░░░░░░░░░░   35.92 % 
+🌙 Night                  72 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   64 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
+Tuesday                  184 commits         ███████░░░░░░░░░░░░░░░░░░   29.77 % 
+Wednesday                47 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
+Thursday                 81 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
+Friday                   66 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
+Saturday                 112 commits         █████░░░░░░░░░░░░░░░░░░░░   18.12 % 
+Sunday                   64 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+SQL                      1 hr                ████████████████████████░   96.51 % 
+JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+
+🔥 Editors: 
+VS Code                  1 hr 2 mins         █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+DBMS_LAB                 1 hr                ████████████████████████░   96.51 % 
+CIRCLO_SOCIAL            2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
+
+💻 Operating System: 
+Mac                      1 hr 2 mins         █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in HTML** 
 
 ```text
@@ -213,7 +256,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Arghyadevs/Arghyadevs/main/assets/bar_graph.png)
 
 
- Last Updated on 17/03/2026 18:48:27 UTC
+ Last Updated on 17/03/2026 18:49:54 UTC
 <!--END_SECTION:waka-->
 
 <!-- ═══════ COSMIC DIVIDER ═══════ -->
