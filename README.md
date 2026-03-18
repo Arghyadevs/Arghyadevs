@@ -223,20 +223,16 @@ Sunday                   64 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-SQL                      1 hr                ████████████████████████░   96.51 % 
-JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 2 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-DBMS_LAB                 1 hr                ████████████████████████░   96.51 % 
-CIRCLO_SOCIAL            2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 2 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in HTML** 
@@ -256,7 +252,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Arghyadevs/Arghyadevs/main/assets/bar_graph.png)
 
 
- Last Updated on 18/03/2026 18:43:53 UTC
+ Last Updated on 18/03/2026 18:45:44 UTC
 <!--END_SECTION:waka-->
 
 <!-- ═══════ COSMIC DIVIDER ═══════ -->
