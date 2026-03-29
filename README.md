@@ -196,47 +196,6 @@ const astronaut = {
  > 
 > 🔑 26 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                212 commits         ████████░░░░░░░░░░░░░░░░░   32.62 % 
-🌆 Daytime                116 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.85 % 
-🌃 Evening                248 commits         ██████████░░░░░░░░░░░░░░░   38.15 % 
-🌙 Night                  74 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   68 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
-Tuesday                  195 commits         ████████░░░░░░░░░░░░░░░░░   30.00 % 
-Wednesday                48 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
-Thursday                 83 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
-Friday                   66 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
-Saturday                 113 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.38 % 
-Sunday                   77 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Git                      6 mins              █████████████░░░░░░░░░░░░   53.18 % 
-Text                     5 mins              ███████████░░░░░░░░░░░░░░   45.87 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
-
-🔥 Editors: 
-VS Code                  12 mins             █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-Movie                    12 mins             █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      12 mins             █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in HTML** 
 
 ```text
@@ -254,7 +213,7 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Arghyadevs/Arghyadevs/main/assets/bar_graph.png)
 
 
- Last Updated on 29/03/2026 18:31:53 UTC
+ Last Updated on 29/03/2026 18:33:23 UTC
 <!--END_SECTION:waka-->
 
 <!-- ═══════ COSMIC DIVIDER ═══════ -->
