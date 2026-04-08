@@ -186,7 +186,7 @@ const astronaut = {
 
 **🐱 My GitHub Data** 
 
-> 📦 484.3 kB Used in GitHub's Storage 
+> 📦 484.0 kB Used in GitHub's Storage 
  > 
 > 🏆 67 Contributions in the Year 2026
  > 
@@ -252,7 +252,7 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Arghyadevs/Arghyadevs/main/assets/bar_graph.png)
 
 
- Last Updated on 08/04/2026 08:14:40 UTC
+ Last Updated on 08/04/2026 19:02:05 UTC
 <!--END_SECTION:waka-->
 
 <!-- ═══════ COSMIC DIVIDER ═══════ -->
