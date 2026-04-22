@@ -178,17 +178,17 @@ const astronaut = {
 ## ⏱️ &nbsp;Dev Metrics — WakaTime
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-26%20hrs%2052%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-26%20hrs%2055%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.96%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.75%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 484.5 kB Used in GitHub's Storage 
+> 📦 484.8 kB Used in GitHub's Storage 
  > 
-> 🏆 69 Contributions in the Year 2026
+> 🏆 78 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -199,21 +199,21 @@ const astronaut = {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                212 commits         ████████░░░░░░░░░░░░░░░░░   32.52 % 
-🌆 Daytime                116 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.79 % 
-🌃 Evening                249 commits         ██████████░░░░░░░░░░░░░░░   38.19 % 
-🌙 Night                  75 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
+🌞 Morning                212 commits         ████████░░░░░░░░░░░░░░░░░   32.32 % 
+🌆 Daytime                116 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.68 % 
+🌃 Evening                252 commits         ██████████░░░░░░░░░░░░░░░   38.41 % 
+🌙 Night                  76 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   69 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
-Tuesday                  196 commits         ████████░░░░░░░░░░░░░░░░░   30.06 % 
-Wednesday                48 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
-Thursday                 83 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
-Friday                   66 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
-Saturday                 113 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.33 % 
-Sunday                   77 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
+Monday                   73 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
+Tuesday                  196 commits         ███████░░░░░░░░░░░░░░░░░░   29.88 % 
+Wednesday                48 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
+Thursday                 83 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
+Friday                   66 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
+Saturday                 113 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.23 % 
+Sunday                   77 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
 ```
 
 
@@ -223,16 +223,16 @@ Sunday                   77 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+CSV                      2 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+HLV                      2 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      2 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -252,7 +252,7 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Arghyadevs/Arghyadevs/main/assets/bar_graph.png)
 
 
- Last Updated on 15/04/2026 07:32:25 UTC
+ Last Updated on 22/04/2026 19:00:25 UTC
 <!--END_SECTION:waka-->
 
 <!-- ═══════ COSMIC DIVIDER ═══════ -->
