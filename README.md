@@ -178,7 +178,7 @@ const astronaut = {
 ## ⏱️ &nbsp;Dev Metrics — WakaTime
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-29%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-29%20hrs%207%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
 
@@ -252,7 +252,7 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Arghyadevs/Arghyadevs/main/assets/bar_graph.png)
 
 
- Last Updated on 05/06/2026 19:35:08 UTC
+ Last Updated on 05/06/2026 19:36:33 UTC
 <!--END_SECTION:waka-->
 
 <!-- ═══════ COSMIC DIVIDER ═══════ -->
