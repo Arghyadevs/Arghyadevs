@@ -178,7 +178,7 @@ const astronaut = {
 ## ⏱️ &nbsp;Dev Metrics — WakaTime
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-29%20hrs%207%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-29%20hrs-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
 
@@ -186,7 +186,7 @@ const astronaut = {
 
 **🐱 My GitHub Data** 
 
-> 📦 486.3 kB Used in GitHub's Storage 
+> 📦 486.4 kB Used in GitHub's Storage 
  > 
 > 🏆 98 Contributions in the Year 2026
  > 
@@ -252,7 +252,7 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Arghyadevs/Arghyadevs/main/assets/bar_graph.png)
 
 
- Last Updated on 05/06/2026 14:29:34 UTC
+ Last Updated on 05/06/2026 19:30:40 UTC
 <!--END_SECTION:waka-->
 
 <!-- ═══════ COSMIC DIVIDER ═══════ -->
