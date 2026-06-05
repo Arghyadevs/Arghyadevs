@@ -178,17 +178,17 @@ const astronaut = {
 ## ⏱️ &nbsp;Dev Metrics — WakaTime
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-28%20hrs%2035%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-29%20hrs%207%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.76%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 485.0 kB Used in GitHub's Storage 
+> 📦 486.2 kB Used in GitHub's Storage 
  > 
-> 🏆 97 Contributions in the Year 2026
+> 🏆 98 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -199,21 +199,21 @@ const astronaut = {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                222 commits         ████████░░░░░░░░░░░░░░░░░   32.89 % 
-🌆 Daytime                116 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.19 % 
-🌃 Evening                260 commits         ██████████░░░░░░░░░░░░░░░   38.52 % 
-🌙 Night                  77 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
+🌞 Morning                223 commits         ████████░░░░░░░░░░░░░░░░░   32.99 % 
+🌆 Daytime                116 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
+🌃 Evening                260 commits         ██████████░░░░░░░░░░░░░░░   38.46 % 
+🌙 Night                  77 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   73 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
-Tuesday                  200 commits         ███████░░░░░░░░░░░░░░░░░░   29.63 % 
-Wednesday                48 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
-Thursday                 85 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
-Friday                   71 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
-Saturday                 121 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.93 % 
-Sunday                   77 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
+Monday                   73 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
+Tuesday                  200 commits         ███████░░░░░░░░░░░░░░░░░░   29.59 % 
+Wednesday                48 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
+Thursday                 85 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
+Friday                   71 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
+Saturday                 121 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.90 % 
+Sunday                   78 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
 ```
 
 
@@ -252,7 +252,7 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Arghyadevs/Arghyadevs/main/assets/bar_graph.png)
 
 
- Last Updated on 18/05/2026 14:52:39 UTC
+ Last Updated on 05/06/2026 02:11:18 UTC
 <!--END_SECTION:waka-->
 
 <!-- ═══════ COSMIC DIVIDER ═══════ -->
