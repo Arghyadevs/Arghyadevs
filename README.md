@@ -199,21 +199,21 @@ const astronaut = {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                223 commits         ████████░░░░░░░░░░░░░░░░░   33.09 % 
-🌆 Daytime                114 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
-🌃 Evening                260 commits         ██████████░░░░░░░░░░░░░░░   38.58 % 
-🌙 Night                  77 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
+🌞 Morning                223 commits         ████████░░░░░░░░░░░░░░░░░   32.99 % 
+🌆 Daytime                116 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
+🌃 Evening                260 commits         ██████████░░░░░░░░░░░░░░░   38.46 % 
+🌙 Night                  77 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   73 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
-Tuesday                  200 commits         ███████░░░░░░░░░░░░░░░░░░   29.67 % 
-Wednesday                47 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
-Thursday                 85 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
-Friday                   70 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
-Saturday                 121 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
-Sunday                   78 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
+Monday                   73 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
+Tuesday                  200 commits         ███████░░░░░░░░░░░░░░░░░░   29.59 % 
+Wednesday                48 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
+Thursday                 85 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
+Friday                   71 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
+Saturday                 121 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.90 % 
+Sunday                   78 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
 ```
 
 
@@ -252,7 +252,7 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Arghyadevs/Arghyadevs/main/assets/bar_graph.png)
 
 
- Last Updated on 09/06/2026 09:03:40 UTC
+ Last Updated on 09/06/2026 09:05:19 UTC
 <!--END_SECTION:waka-->
 
 <!-- ═══════ COSMIC DIVIDER ═══════ -->
