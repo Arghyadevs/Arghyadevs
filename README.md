@@ -182,7 +182,7 @@ const astronaut = {
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.76%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-0%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -196,24 +196,24 @@ const astronaut = {
  > 
 > 🔑 25 Private Repositories 
  > 
-**I'm a Night 🦉** 
+**I'm an Early 🐤** 
 
 ```text
 🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌆 Daytime                4 commits           ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
-🌃 Evening                24 commits          ███████████████████░░░░░░   77.42 % 
-🌙 Night                  3 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
+🌆 Daytime                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌃 Evening                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
-📅 **I'm Most Productive on Sunday** 
+📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   4 commits           ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
-Tuesday                  11 commits          █████████░░░░░░░░░░░░░░░░   35.48 % 
-Wednesday                2 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
-Thursday                 1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+Monday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Tuesday                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Wednesday                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Thursday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Sunday                   13 commits          ██████████░░░░░░░░░░░░░░░   41.94 % 
+Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
 
@@ -238,14 +238,8 @@ Unknown Project          0 secs              ░░░░░░░░░░░�
 Mac                      22 mins             █████████████████████████   100.00 % 
 ```
 
-**I Mostly Code in HTML** 
-
 ```text
-HTML                     16 repos            █████████░░░░░░░░░░░░░░░░   34.78 % 
-TypeScript               14 repos            ████████░░░░░░░░░░░░░░░░░   30.43 % 
-JavaScript               6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
-PLSQL                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
-Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+
 ```
 
 
@@ -255,7 +249,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Arghyadevs/Arghyadevs/main/assets/bar_graph.png)
 
 
- Last Updated on 20/06/2026 21:26:23 UTC
+ Last Updated on 20/06/2026 21:26:51 UTC
 <!--END_SECTION:waka-->
 
 <!-- ═══════ COSMIC DIVIDER ═══════ -->
