@@ -182,7 +182,7 @@ const astronaut = {
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.75%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.76%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -199,21 +199,21 @@ const astronaut = {
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                212 commits         ████████░░░░░░░░░░░░░░░░░   31.78 % 
-🌆 Daytime                116 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
-🌃 Evening                262 commits         ██████████░░░░░░░░░░░░░░░   39.28 % 
-🌙 Night                  77 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
+🌞 Morning                223 commits         ████████░░░░░░░░░░░░░░░░░   32.75 % 
+🌆 Daytime                116 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.03 % 
+🌃 Evening                264 commits         ██████████░░░░░░░░░░░░░░░   38.77 % 
+🌙 Night                  78 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   73 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
-Tuesday                  203 commits         ████████░░░░░░░░░░░░░░░░░   30.43 % 
-Wednesday                37 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
-Thursday                 85 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.74 % 
-Friday                   71 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
-Saturday                 120 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.99 % 
-Sunday                   78 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
+Monday                   73 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
+Tuesday                  203 commits         ███████░░░░░░░░░░░░░░░░░░   29.81 % 
+Wednesday                49 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
+Thursday                 86 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
+Friday                   71 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
+Saturday                 121 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.77 % 
+Sunday                   78 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
 ```
 
 
@@ -255,7 +255,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Arghyadevs/Arghyadevs/main/assets/bar_graph.png)
 
 
- Last Updated on 20/06/2026 14:43:52 UTC
+ Last Updated on 20/06/2026 14:45:30 UTC
 <!--END_SECTION:waka-->
 
 <!-- ═══════ COSMIC DIVIDER ═══════ -->
