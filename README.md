@@ -223,19 +223,16 @@ Sunday                   78 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               22 mins             █████████████████████████   100.00 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  22 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-passport-photo-maker-pro 20 mins             ███████████████████████░░   91.22 % 
-main                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      22 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in HTML** 
@@ -255,7 +252,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Arghyadevs/Arghyadevs/main/assets/bar_graph.png)
 
 
- Last Updated on 23/06/2026 19:49:01 UTC
+ Last Updated on 23/06/2026 19:50:58 UTC
 <!--END_SECTION:waka-->
 
 <!-- ═══════ COSMIC DIVIDER ═══════ -->
