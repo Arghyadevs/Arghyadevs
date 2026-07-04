@@ -199,21 +199,21 @@ const astronaut = {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                224 commits         ████████░░░░░░░░░░░░░░░░░   32.65 % 
-🌆 Daytime                120 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.49 % 
-🌃 Evening                264 commits         ██████████░░░░░░░░░░░░░░░   38.48 % 
-🌙 Night                  78 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
+🌞 Morning                224 commits         ████████░░░░░░░░░░░░░░░░░   32.61 % 
+🌆 Daytime                120 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.47 % 
+🌃 Evening                264 commits         ██████████░░░░░░░░░░░░░░░   38.43 % 
+🌙 Night                  79 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   73 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
-Tuesday                  203 commits         ███████░░░░░░░░░░░░░░░░░░   29.59 % 
-Wednesday                49 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-Thursday                 86 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
-Friday                   71 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
-Saturday                 122 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
-Sunday                   82 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
+Monday                   73 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
+Tuesday                  203 commits         ███████░░░░░░░░░░░░░░░░░░   29.55 % 
+Wednesday                49 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
+Thursday                 86 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
+Friday                   71 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
+Saturday                 122 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.76 % 
+Sunday                   83 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
 ```
 
 
@@ -235,12 +235,12 @@ noble-salk               1 min               ███████████�
 Mac                      1 min               █████████████████████████   100.00 % 
 ```
 
-**I Mostly Code in HTML** 
+**I Mostly Code in TypeScript** 
 
 ```text
+TypeScript               16 repos            █████████░░░░░░░░░░░░░░░░   34.04 % 
 HTML                     16 repos            █████████░░░░░░░░░░░░░░░░   34.04 % 
-TypeScript               15 repos            ████████░░░░░░░░░░░░░░░░░   31.91 % 
-JavaScript               6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
+JavaScript               5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
 PLSQL                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
 Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
 ```
@@ -252,7 +252,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Arghyadevs/Arghyadevs/main/assets/bar_graph.png)
 
 
- Last Updated on 04/07/2026 19:17:09 UTC
+ Last Updated on 04/07/2026 19:18:29 UTC
 <!--END_SECTION:waka-->
 
 <!-- ═══════ COSMIC DIVIDER ═══════ -->
