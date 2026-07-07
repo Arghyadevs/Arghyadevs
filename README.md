@@ -114,10 +114,13 @@ const astronaut = {
   <a href="https://github.com/Arghyadevs/SentinelX">
     <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Arghyadevs&repo=SentinelX&theme=tokyonight&hide_border=true&bg_color=020024&title_color=00d4ff&icon_color=a78bfa&text_color=c9d1d9" alt="SentinelX" width="49%" />
   </a>
-  <a href="https://github.com/AlgoInfluencers/GDG-Solution-Challenge.git">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Arghyadevs&repo=CIRCLO_SOCIAL&theme=tokyonight&hide_border=true&bg_color=020024&title_color=00d4ff&icon_color=a78bfa&text_color=c9d1d9" alt="CIRCLO_SOCIAL" width="49%" />
-  </a>
-  <a href="https://github.com/Arghyadevs/Indian-Army">
+  <a href="https://github.com/AlgoInfluencers/GDG-Solution-Challenge">
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api/pin/?username=AlgoInfluencers&repo=GDG-Solution-Challenge&theme=tokyonight&hide_border=true&bg_color=020024&title_color=00d4ff&icon_color=a78bfa&text_color=c9d1d9"
+    alt="GDG-Solution-Challenge"
+    width="49%"
+  />
+</a>  <a href="https://github.com/Arghyadevs/Indian-Army">
     <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Arghyadevs&repo=Indian-Army&theme=tokyonight&hide_border=true&bg_color=020024&title_color=00d4ff&icon_color=a78bfa&text_color=c9d1d9" alt="Indian-Army" width="49%" />
   </a>
 </div>
