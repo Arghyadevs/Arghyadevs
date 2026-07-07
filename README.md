@@ -223,20 +223,16 @@ Sunday                   91 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               27 mins             ████████████████░░░░░░░░░   62.21 % 
-Markdown                 16 mins             █████████░░░░░░░░░░░░░░░░   37.79 % 
+Markdown                 1 min               █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Antigravity Desktop      43 mins             █████████████████████████   100.00 % 
+Antigravity Desktop      1 min               █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-BAH                      21 mins             ████████████░░░░░░░░░░░░░   49.31 % 
-notes                    15 mins             █████████░░░░░░░░░░░░░░░░   34.77 % 
-WMS                      5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
-noble-salk               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
+noble-salk               1 min               █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      43 mins             █████████████████████████   100.00 % 
+Mac                      1 min               █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -256,7 +252,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Arghyadevs/Arghyadevs/main/assets/bar_graph.png)
 
 
- Last Updated on 07/07/2026 19:39:43 UTC
+ Last Updated on 07/07/2026 19:41:35 UTC
 <!--END_SECTION:waka-->
 
 <!-- ═══════ COSMIC DIVIDER ═══════ -->
