@@ -115,10 +115,7 @@ const dev = {
 
 ## 📰 Transmissions
 
-<!-- BLOG-POST-LIST:START -->
-- 🚀 **How DRM Secures Online Education: Behind the Scenes of Video Streaming on PW Live & PenPencil**
-- 🚀 **How Smart Traffic Systems Are Revolutionizing Urban Mobility**
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- 🚀 **How DRM Secures Online Education: Behind the Scenes of Video Streaming on PW Live &amp; PenPencil**- 🚀 **How Smart Traffic Systems Are Revolutionizing Urban Mobility**<!-- BLOG-POST-LIST:END -->
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
