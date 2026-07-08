@@ -126,13 +126,13 @@ const dev = {
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.77%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.78%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 496.2 kB Used in GitHub's Storage 
+> 📦 527.7 kB Used in GitHub's Storage 
  > 
-> 🏆 126 Contributions in the Year 2026
+> 🏆 136 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -140,24 +140,24 @@ const dev = {
  > 
 > 🔑 24 Private Repositories 
  > 
-**I'm an Early 🐤** 
+**I'm a Night 🦉** 
 
 ```text
-🌞 Morning                224 commits         ████████░░░░░░░░░░░░░░░░░   32.23 % 
-🌆 Daytime                124 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.84 % 
-🌃 Evening                264 commits         █████████░░░░░░░░░░░░░░░░   37.99 % 
-🌙 Night                  83 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
+🌞 Morning                224 commits         ████████░░░░░░░░░░░░░░░░░   31.68 % 
+🌆 Daytime                124 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.54 % 
+🌃 Evening                271 commits         ██████████░░░░░░░░░░░░░░░   38.33 % 
+🌙 Night                  88 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   73 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
-Tuesday                  203 commits         ███████░░░░░░░░░░░░░░░░░░   29.21 % 
-Wednesday                49 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
-Thursday                 86 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
-Friday                   71 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
-Saturday                 122 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.55 % 
-Sunday                   91 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
+Monday                   73 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
+Tuesday                  208 commits         ███████░░░░░░░░░░░░░░░░░░   29.42 % 
+Wednesday                56 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
+Thursday                 86 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
+Friday                   71 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
+Saturday                 122 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.26 % 
+Sunday                   91 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
 ```
 
 
@@ -167,20 +167,16 @@ Sunday                   91 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               27 mins             ████████████████░░░░░░░░░   62.21 % 
-Markdown                 16 mins             █████████░░░░░░░░░░░░░░░░   37.79 % 
+Markdown                 1 min               █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Antigravity Desktop      43 mins             █████████████████████████   100.00 % 
+Antigravity Desktop      1 min               █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-BAH                      21 mins             ████████████░░░░░░░░░░░░░   49.31 % 
-notes                    15 mins             █████████░░░░░░░░░░░░░░░░   34.77 % 
-WMS                      5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
-noble-salk               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
+noble-salk               1 min               █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      43 mins             █████████████████████████   100.00 % 
+Mac                      1 min               █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -200,7 +196,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Arghyadevs/Arghyadevs/main/assets/bar_graph.png)
 
 
- Last Updated on 07/07/2026 14:08:56 UTC
+ Last Updated on 08/07/2026 13:33:28 UTC
 <!--END_SECTION:waka-->
 
 <img src="assets/divider.svg" width="100%" alt=""/>
