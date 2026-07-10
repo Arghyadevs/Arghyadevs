@@ -179,14 +179,8 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 ```
 
-**I Mostly Code in TypeScript** 
-
 ```text
-TypeScript               15 repos            █████████░░░░░░░░░░░░░░░░   34.88 % 
-HTML                     15 repos            █████████░░░░░░░░░░░░░░░░   34.88 % 
-JavaScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
-PLSQL                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
-Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+
 ```
 
 
@@ -196,7 +190,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Arghyadevs/Arghyadevs/main/assets/bar_graph.png)
 
 
- Last Updated on 10/07/2026 02:34:57 UTC
+ Last Updated on 10/07/2026 02:35:19 UTC
 <!--END_SECTION:waka-->
 
 <img src="assets/divider.svg" width="100%" alt=""/>
