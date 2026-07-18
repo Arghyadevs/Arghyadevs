@@ -126,7 +126,7 @@ const dev = {
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-0%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.65%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -140,24 +140,24 @@ const dev = {
  > 
 > 🔑 24 Private Repositories 
  > 
-**I'm an Early 🐤** 
+**I'm a Night 🦉** 
 
 ```text
-🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌆 Daytime                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌃 Evening                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌞 Morning                195 commits         ████████░░░░░░░░░░░░░░░░░   33.74 % 
+🌆 Daytime                92 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
+🌃 Evening                219 commits         █████████░░░░░░░░░░░░░░░░   37.89 % 
+🌙 Night                  72 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
 ```
-📅 **I'm Most Productive on Monday** 
+📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Tuesday                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Wednesday                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Thursday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Monday                   34 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Tuesday                  191 commits         ████████░░░░░░░░░░░░░░░░░   33.04 % 
+Wednesday                55 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+Thursday                 62 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
+Friday                   51 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+Saturday                 103 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.82 % 
+Sunday                   82 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
 ```
 
 
@@ -179,8 +179,14 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 ```
 
-```text
+**I Mostly Code in TypeScript** 
 
+```text
+TypeScript               15 repos            █████████████░░░░░░░░░░░░   51.72 % 
+JavaScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
+HTML                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
 ```
 
 
@@ -190,7 +196,7 @@ No Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/Arghyadevs/Arghyadevs/main/assets/bar_graph.png)
 
 
- Last Updated on 18/07/2026 04:20:20 UTC
+ Last Updated on 18/07/2026 04:21:39 UTC
 <!--END_SECTION:waka-->
 
 <img src="assets/divider.svg" width="100%" alt=""/>
