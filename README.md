@@ -130,7 +130,7 @@ const dev = {
 
 **🐱 My GitHub Data** 
 
-> 📦 530.5 kB Used in GitHub's Storage 
+> 📦 530.4 kB Used in GitHub's Storage 
  > 
 > 🏆 138 Contributions in the Year 2026
  > 
@@ -190,7 +190,7 @@ No Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/Arghyadevs/Arghyadevs/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2026 03:28:48 UTC
+ Last Updated on 24/07/2026 03:29:18 UTC
 <!--END_SECTION:waka-->
 
 <img src="assets/divider.svg" width="100%" alt=""/>
