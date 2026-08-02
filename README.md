@@ -128,7 +128,7 @@ const dev = {
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.75%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-0%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -145,21 +145,21 @@ const dev = {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                213 commits         ████████░░░░░░░░░░░░░░░░░   32.97 % 
-🌆 Daytime                111 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
-🌃 Evening                242 commits         █████████░░░░░░░░░░░░░░░░   37.46 % 
-🌙 Night                  80 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
+🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌆 Daytime                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌃 Evening                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
-📅 **I'm Most Productive on Tuesday** 
+📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   61 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
-Tuesday                  197 commits         ████████░░░░░░░░░░░░░░░░░   30.50 % 
-Wednesday                52 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
-Thursday                 80 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
-Friday                   58 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
-Saturday                 115 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.80 % 
-Sunday                   83 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
+Monday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Tuesday                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Wednesday                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Thursday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
 
@@ -187,14 +187,8 @@ No Activity Tracked This Week
 No AI Coding Activity Tracked This Week
 ```
 
-**I Mostly Code in TypeScript** 
-
 ```text
-TypeScript               16 repos            █████████░░░░░░░░░░░░░░░░   34.04 % 
-HTML                     16 repos            █████████░░░░░░░░░░░░░░░░   34.04 % 
-JavaScript               5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
-PLSQL                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
-Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+
 ```
 
 
@@ -204,7 +198,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Arghyadevs/Arghyadevs/main/assets/bar_graph.png)
 
 
- Last Updated on 02/08/2026 15:42:57 UTC
+ Last Updated on 02/08/2026 15:43:35 UTC
 <!--END_SECTION:waka-->
 
 <img src="assets/divider.svg" width="100%" alt=""/>
