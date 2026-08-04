@@ -169,47 +169,40 @@ Sunday                   92 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               28 mins             ██████████████████░░░░░░░   72.55 % 
-Markdown                 5 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
-C++                      2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
-HTML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+JavaScript               28 mins             ████████████████████░░░░░   78.24 % 
+Markdown                 5 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.40 % 
+HTML                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
 
 🔥 Editors: 
-VS Code                  30 mins             ████████████████████░░░░░   78.45 % 
-Antigravity IDE          8 mins              █████░░░░░░░░░░░░░░░░░░░░   21.55 % 
+VS Code                  30 mins             █████████████████████░░░░   84.60 % 
+Antigravity IDE          5 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.40 % 
 
 🐱‍💻 Projects: 
-Master Java Script       30 mins             ████████████████████░░░░░   78.45 % 
-BAH                      5 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
-Unknown Project          1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
-DSA C++                  1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
-Indian-Army              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+Master Java Script       30 mins             █████████████████████░░░░   84.60 % 
+BAH                      5 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.40 % 
 
 💻 Operating System: 
-Mac                      38 mins             █████████████████████████   100.00 % 
+Mac                      35 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 mins (21.55%)
+⏱ AI Coding Time: 5 mins (15.4%)
 
-✍️ 5 lines written by AI, 99 lines written by hand (4.81% AI-written)
+✍️ 0 lines written by AI, 99 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 5 AI Prompts
-
-Gemini                   5 lines             █████████████████████████   100.00 % 
+🧠 1 AI Sessions, 3 AI Prompts
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 4.81% of written lines came from AI
-📝 Concise Prompter — average 224 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 95.93% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 259 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -229,7 +222,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Arghyadevs/Arghyadevs/main/assets/bar_graph.png)
 
 
- Last Updated on 04/08/2026 19:18:10 UTC
+ Last Updated on 04/08/2026 19:20:04 UTC
 <!--END_SECTION:waka-->
 
 <img src="assets/divider.svg" width="100%" alt=""/>
