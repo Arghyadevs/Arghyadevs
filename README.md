@@ -122,9 +122,9 @@ const dev = {
 ## ⏱️ Dev Metrics — WakaTime
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-30%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-33%20hrs%208%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20hrs%2024%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20hrs%2045%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -169,40 +169,47 @@ Sunday                   92 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               28 mins             ████████████████████░░░░░   78.24 % 
-Markdown                 5 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.40 % 
-HTML                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
+C++                      2 hrs 2 mins        █████████████████░░░░░░░░   68.69 % 
+JavaScript               28 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
+JSON                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
+Text                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
+Markdown                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
 
 🔥 Editors: 
-VS Code                  30 mins             █████████████████████░░░░   84.60 % 
-Antigravity IDE          5 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.40 % 
+VS Code                  2 hrs 52 mins       ████████████████████████░   96.90 % 
+Antigravity IDE          5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
 
 🐱‍💻 Projects: 
-Master Java Script       30 mins             █████████████████████░░░░   84.60 % 
-BAH                      5 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.40 % 
+DSA C++                  2 hrs 19 mins       ████████████████████░░░░░   78.11 % 
+Master Java Script       29 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.65 % 
+BAH                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
+Cpp Basics               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+vscode                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
 
 💻 Operating System: 
-Mac                      35 mins             █████████████████████████   100.00 % 
+Mac                      2 hrs 58 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 mins (15.4%)
+⏱ AI Coding Time: 26 mins (15.02%)
 
-✍️ 0 lines written by AI, 99 lines written by hand (0.0% AI-written)
+✍️ 1 lines written by AI, 529 lines written by hand (0.19% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 3 AI Prompts
+🧠 3 AI Sessions, 79 AI Prompts
+
+Github-Copilot           1 lines             █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 259 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0.19% of written lines came from AI
+📚 Verbose Prompter — average 3,597 characters per prompt
+🔁 Iterative Prompter — average 26 prompts per session
+🔍 Hands-On Reviewer — 99.9% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -222,7 +229,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Arghyadevs/Arghyadevs/main/assets/bar_graph.png)
 
 
- Last Updated on 07/08/2026 18:38:24 UTC
+ Last Updated on 07/08/2026 18:40:10 UTC
 <!--END_SECTION:waka-->
 
 <img src="assets/divider.svg" width="100%" alt=""/>
