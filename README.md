@@ -169,33 +169,33 @@ Sunday                   92 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-C++                      2 hrs 2 mins        █████████████████░░░░░░░░   68.69 % 
-JavaScript               28 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
-JSON                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
-Text                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
-Markdown                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
+C++                      2 hrs 2 mins        █████████████████░░░░░░░░   68.84 % 
+JavaScript               27 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
+JSON                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
+Text                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
+Markdown                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 52 mins       ████████████████████████░   96.90 % 
-Antigravity IDE          5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
+VS Code                  2 hrs 52 mins       ████████████████████████░   96.89 % 
+Antigravity IDE          5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
 
 🐱‍💻 Projects: 
-DSA C++                  2 hrs 19 mins       ████████████████████░░░░░   78.11 % 
-Master Java Script       29 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.65 % 
-BAH                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
+DSA C++                  2 hrs 19 mins       ████████████████████░░░░░   78.28 % 
+Master Java Script       29 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.47 % 
+BAH                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
 Cpp Basics               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
 vscode                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
 
 💻 Operating System: 
-Mac                      2 hrs 58 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 57 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 26 mins (15.02%)
+⏱ AI Coding Time: 26 mins (15.06%)
 
-✍️ 1 lines written by AI, 529 lines written by hand (0.19% AI-written)
+✍️ 1 lines written by AI, 526 lines written by hand (0.19% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
@@ -229,7 +229,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Arghyadevs/Arghyadevs/main/assets/bar_graph.png)
 
 
- Last Updated on 08/08/2026 18:32:26 UTC
+ Last Updated on 08/08/2026 18:34:18 UTC
 <!--END_SECTION:waka-->
 
 <img src="assets/divider.svg" width="100%" alt=""/>
