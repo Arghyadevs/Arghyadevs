@@ -211,11 +211,11 @@ Github-Copilot           1 lines             ███████████�
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               17 repos            █████████░░░░░░░░░░░░░░░░   35.42 % 
-HTML                     16 repos            ████████░░░░░░░░░░░░░░░░░   33.33 % 
-JavaScript               5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
-PLSQL                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
-Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+TypeScript               17 repos            █████████░░░░░░░░░░░░░░░░   34.69 % 
+HTML                     16 repos            ████████░░░░░░░░░░░░░░░░░   32.65 % 
+JavaScript               5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
+PLSQL                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
 ```
 
 
@@ -225,7 +225,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Arghyadevs/Arghyadevs/main/assets/bar_graph.png)
 
 
- Last Updated on 11/08/2026 07:18:19 UTC
+ Last Updated on 11/08/2026 07:20:01 UTC
 <!--END_SECTION:waka-->
 
 <img src="assets/divider.svg" width="100%" alt=""/>
