@@ -142,6 +142,70 @@ const dev = {
  > 
 > 🔑 25 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                225 commits         ████████░░░░░░░░░░░░░░░░░   31.51 % 
+🌆 Daytime                124 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.37 % 
+🌃 Evening                272 commits         ██████████░░░░░░░░░░░░░░░   38.10 % 
+🌙 Night                  93 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   74 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
+Tuesday                  210 commits         ███████░░░░░░░░░░░░░░░░░░   29.41 % 
+Wednesday                56 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
+Thursday                 86 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
+Friday                   73 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
+Saturday                 123 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.23 % 
+Sunday                   92 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+Python                   22 mins             █████████████████████░░░░   82.67 % 
+Markdown                 4 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
+Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
+
+🔥 Editors: 
+VS Code                  27 mins             █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+AB-testing-Pipeline      26 mins             ████████████████████████░   97.45 % 
+Master Java Script       0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
+
+💻 Operating System: 
+Mac                      27 mins             █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 5 mins (21.6%)
+
+✍️ 0 lines written by AI, 8 lines written by hand (0.0% AI-written)
+
+🔤 33,310 Input Tokens, 117 Output Tokens
+
+💵 $0.10 Estimated AI Cost This Week
+
+🧠 3 AI Sessions, 4 AI Prompts
+
+Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 159 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -159,7 +223,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Arghyadevs/Arghyadevs/main/assets/bar_graph.png)
 
 
- Last Updated on 14/08/2026 18:42:23 UTC
+ Last Updated on 14/08/2026 18:44:17 UTC
 <!--END_SECTION:waka-->
 
 <img src="assets/divider.svg" width="100%" alt=""/>
