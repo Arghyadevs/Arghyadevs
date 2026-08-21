@@ -132,7 +132,7 @@ const dev = {
 
 **🐱 My GitHub Data** 
 
-> 📦 542.8 kB Used in GitHub's Storage 
+> 📦 542.9 kB Used in GitHub's Storage 
  > 
 > 🏆 144 Contributions in the Year 2026
  > 
@@ -169,25 +169,22 @@ Sunday                   92 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   7 mins              ██████████████████████░░░   88.30 % 
-Other                    1 min               ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
+Other                    1 min               █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  7 mins              ██████████████████████░░░   88.30 % 
-Codex Vscode             1 min               ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
+Codex Vscode             1 min               █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-AB-testing-Pipeline      7 mins              ██████████████████████░░░   88.30 % 
-CIRCLO_SOCIAL            1 min               ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
+CIRCLO_SOCIAL            1 min               █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      8 mins              █████████████████████████   100.00 % 
+Mac                      1 min               █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 mins (47.97%)
+⏱ AI Coding Time: 1 min (100.0%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
@@ -195,13 +192,13 @@ Mac                      8 mins              ███████████�
 
 💵 $0.28 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 2 AI Prompts
+🧠 1 AI Sessions, 1 AI Prompts
 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 216 characters per prompt
+📝 Concise Prompter — average 155 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
@@ -223,7 +220,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Arghyadevs/Arghyadevs/main/assets/bar_graph.png)
 
 
- Last Updated on 20/08/2026 18:26:12 UTC
+ Last Updated on 21/08/2026 00:38:21 UTC
 <!--END_SECTION:waka-->
 
 <img src="assets/divider.svg" width="100%" alt=""/>
