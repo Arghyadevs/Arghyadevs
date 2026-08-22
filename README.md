@@ -132,7 +132,7 @@ const dev = {
 
 **🐱 My GitHub Data** 
 
-> 📦 542.7 kB Used in GitHub's Storage 
+> 📦 542.8 kB Used in GitHub's Storage 
  > 
 > 🏆 144 Contributions in the Year 2026
  > 
@@ -169,38 +169,46 @@ Sunday                   92 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    1 min               █████████████████████████   100.00 % 
+TypeScript               9 mins              ████████████░░░░░░░░░░░░░   46.95 % 
+Other                    7 mins              █████████░░░░░░░░░░░░░░░░   34.21 % 
+JavaScript               3 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
 
 🔥 Editors: 
-Codex Vscode             1 min               █████████████████████████   100.00 % 
+VS Code                  17 mins             █████████████████████░░░░   85.24 % 
+Codex Vscode             3 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
 
 🐱‍💻 Projects: 
-CIRCLO_SOCIAL            1 min               █████████████████████████   100.00 % 
+TypeScript_Domination    13 mins             ████████████████░░░░░░░░░   62.23 % 
+Master Java Script       4 mins              ██████░░░░░░░░░░░░░░░░░░░   23.01 % 
+e                        2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
+CIRCLO_SOCIAL            1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
 
 💻 Operating System: 
-Mac                      1 min               █████████████████████████   100.00 % 
+Mac                      21 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 min (100.0%)
+⏱ AI Coding Time: 13 mins (65.88%)
 
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+✍️ 0 lines written by AI, 17 lines written by hand (0.0% AI-written)
 
-🔤 41,181 Input Tokens, 8,555 Output Tokens
+🔤 109,043 Input Tokens, 21,982 Output Tokens
 
-💵 $0.28 Estimated AI Cost This Week
+💵 $0.72 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 1 AI Prompts
+🧠 3 AI Sessions, 3 AI Prompts
 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 155 characters per prompt
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📄 Detailed Prompter — average 515 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -220,7 +228,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Arghyadevs/Arghyadevs/main/assets/bar_graph.png)
 
 
- Last Updated on 21/08/2026 18:25:32 UTC
+ Last Updated on 22/08/2026 00:35:35 UTC
 <!--END_SECTION:waka-->
 
 <img src="assets/divider.svg" width="100%" alt=""/>
