@@ -122,9 +122,9 @@ const dev = {
 ## ⏱️ Dev Metrics — WakaTime
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-33%20hrs%2048%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-34%20hrs%2036%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-6%20hrs%205%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-6%20hrs%2051%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -142,75 +142,6 @@ const dev = {
  > 
 > 🔑 25 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                225 commits         ████████░░░░░░░░░░░░░░░░░   31.51 % 
-🌆 Daytime                124 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.37 % 
-🌃 Evening                272 commits         ██████████░░░░░░░░░░░░░░░   38.10 % 
-🌙 Night                  93 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   74 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
-Tuesday                  210 commits         ███████░░░░░░░░░░░░░░░░░░   29.41 % 
-Wednesday                56 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
-Thursday                 86 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
-Friday                   73 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
-Saturday                 123 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.23 % 
-Sunday                   92 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-TypeScript               9 mins              ████████████░░░░░░░░░░░░░   46.95 % 
-Other                    7 mins              █████████░░░░░░░░░░░░░░░░   34.21 % 
-JavaScript               3 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
-
-🔥 Editors: 
-VS Code                  17 mins             █████████████████████░░░░   85.24 % 
-Codex Vscode             3 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
-
-🐱‍💻 Projects: 
-TypeScript_Domination    13 mins             ████████████████░░░░░░░░░   62.23 % 
-Master Java Script       4 mins              ██████░░░░░░░░░░░░░░░░░░░   23.01 % 
-e                        2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
-CIRCLO_SOCIAL            1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
-
-💻 Operating System: 
-Mac                      21 mins             █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 13 mins (65.88%)
-
-✍️ 0 lines written by AI, 17 lines written by hand (0.0% AI-written)
-
-🔤 109,043 Input Tokens, 21,982 Output Tokens
-
-💵 $0.72 Estimated AI Cost This Week
-
-🧠 3 AI Sessions, 3 AI Prompts
-
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📄 Detailed Prompter — average 515 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -228,7 +159,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Arghyadevs/Arghyadevs/main/assets/bar_graph.png)
 
 
- Last Updated on 22/08/2026 18:31:38 UTC
+ Last Updated on 22/08/2026 18:33:16 UTC
 <!--END_SECTION:waka-->
 
 <img src="assets/divider.svg" width="100%" alt=""/>
