@@ -132,7 +132,7 @@ const dev = {
 
 **🐱 My GitHub Data** 
 
-> 📦 543.2 kB Used in GitHub's Storage 
+> 📦 543.3 kB Used in GitHub's Storage 
  > 
 > 🏆 144 Contributions in the Year 2026
  > 
@@ -169,50 +169,50 @@ Sunday                   93 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               36 mins             █████████████░░░░░░░░░░░░   51.75 % 
-TypeScript               10 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
-Markdown                 9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
-Other                    6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
-Bash                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
+JavaScript               49 mins             ██████████████░░░░░░░░░░░   56.85 % 
+TypeScript               10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
+Markdown                 9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
+Other                    6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
+Bash                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
 
 🔥 Editors: 
-VS Code                  39 mins             ██████████████░░░░░░░░░░░   55.91 % 
-Codex Vscode             20 mins             ███████░░░░░░░░░░░░░░░░░░   29.84 % 
-Antigravity IDE          9 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
+VS Code                  44 mins             █████████████░░░░░░░░░░░░   51.20 % 
+Codex Vscode             32 mins             █████████░░░░░░░░░░░░░░░░   36.88 % 
+Antigravity IDE          10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
 
 🐱‍💻 Projects: 
-passport-photo-maker-pro 27 mins             ██████████░░░░░░░░░░░░░░░   38.95 % 
-TypeScript_Domination    13 mins             █████░░░░░░░░░░░░░░░░░░░░   19.44 % 
-Unknown Project          11 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
-main                     9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
-Master Java Script       4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
+passport-photo-maker-pro 40 mins             ███████████░░░░░░░░░░░░░░   45.63 % 
+TypeScript_Domination    13 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
+Unknown Project          11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
+Master Java Script       10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
+main                     9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
 
 💻 Operating System: 
-Mac                      1 hr 10 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 27 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr (86.83%)
+⏱ AI Coding Time: 1 hr 14 mins (85.35%)
 
-✍️ 934 lines written by AI, 17 lines written by hand (98.21% AI-written)
+✍️ 1,082 lines written by AI, 28 lines written by hand (97.48% AI-written)
 
-🔤 413,707 Input Tokens, 83,126 Output Tokens
+🔤 516,637 Input Tokens, 67,889 Output Tokens
 
-💵 $3.29 Estimated AI Cost This Week
+💵 $3.72 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 16 AI Prompts
+🧠 8 AI Sessions, 18 AI Prompts
 
-GPT                      868 lines           ███████████████████████░░   90.79 % 
-Github-Copilot           44 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
-Gemini                   44 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
+GPT                      1,017 lines         ███████████████████████░░   92.04 % 
+Github-Copilot           44 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
+Gemini                   44 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.21% of written lines came from AI
-📄 Detailed Prompter — average 582 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 1.95% of changed lines were hand-edited
+🤖 AI-Driven — 97.48% of written lines came from AI
+📄 Detailed Prompter — average 604 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 7.06% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -232,7 +232,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Arghyadevs/Arghyadevs/main/assets/bar_graph.png)
 
 
- Last Updated on 23/08/2026 18:13:45 UTC
+ Last Updated on 24/08/2026 00:37:15 UTC
 <!--END_SECTION:waka-->
 
 <img src="assets/divider.svg" width="100%" alt=""/>
