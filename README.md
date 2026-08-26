@@ -122,9 +122,9 @@ const dev = {
 ## ⏱️ Dev Metrics — WakaTime
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-34%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-35%20hrs%2019%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-7%20hrs%206%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-7%20hrs%2031%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -169,32 +169,32 @@ Sunday                   93 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               49 mins             ██████████████░░░░░░░░░░░   56.85 % 
-TypeScript               10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
-Markdown                 9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
-Other                    6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
-Bash                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
+JavaScript               49 mins             ███████████░░░░░░░░░░░░░░   44.22 % 
+C++                      16 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
+Bash                     14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
+TypeScript               10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
+Markdown                 9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 % 
 
 🔥 Editors: 
-VS Code                  44 mins             █████████████░░░░░░░░░░░░   51.20 % 
-Codex Vscode             32 mins             █████████░░░░░░░░░░░░░░░░   36.88 % 
-Antigravity IDE          10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
+VS Code                  1 hr 10 mins        ████████████████░░░░░░░░░   62.04 % 
+Codex Vscode             32 mins             ███████░░░░░░░░░░░░░░░░░░   28.69 % 
+Antigravity IDE          10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
 
 🐱‍💻 Projects: 
-passport-photo-maker-pro 40 mins             ███████████░░░░░░░░░░░░░░   45.63 % 
-TypeScript_Domination    13 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
-Unknown Project          11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
-Master Java Script       10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
-main                     9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
+passport-photo-maker-pro 40 mins             █████████░░░░░░░░░░░░░░░░   35.49 % 
+AlgoInfluencers          24 mins             █████░░░░░░░░░░░░░░░░░░░░   21.78 % 
+TypeScript_Domination    13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
+Unknown Project          11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
+Master Java Script       10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
 
 💻 Operating System: 
-Mac                      1 hr 27 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 52 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 14 mins (85.35%)
+⏱ AI Coding Time: 1 hr 39 mins (87.83%)
 
 ✍️ 1,082 lines written by AI, 28 lines written by hand (97.48% AI-written)
 
@@ -202,7 +202,7 @@ Mac                      1 hr 27 mins        ███████████�
 
 💵 $3.72 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 18 AI Prompts
+🧠 9 AI Sessions, 27 AI Prompts
 
 GPT                      1,017 lines         ███████████████████████░░   92.04 % 
 Github-Copilot           44 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
@@ -210,8 +210,8 @@ Gemini                   44 lines            █░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 97.48% of written lines came from AI
-📄 Detailed Prompter — average 604 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
+📄 Detailed Prompter — average 775 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 7.06% of changed lines were hand-edited
 ```
 
@@ -232,7 +232,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Arghyadevs/Arghyadevs/main/assets/bar_graph.png)
 
 
- Last Updated on 26/08/2026 19:30:31 UTC
+ Last Updated on 26/08/2026 19:32:47 UTC
 <!--END_SECTION:waka-->
 
 <img src="assets/divider.svg" width="100%" alt=""/>
