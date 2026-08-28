@@ -122,9 +122,9 @@ const dev = {
 ## ⏱️ Dev Metrics — WakaTime
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-35%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-36%20hrs%206%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-7%20hrs%2031%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-8%20hrs%2045%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -169,50 +169,52 @@ Sunday                   93 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               49 mins             ███████████░░░░░░░░░░░░░░   44.22 % 
-C++                      16 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
-Bash                     14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
-TypeScript               10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
-Markdown                 9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 % 
+JavaScript               46 mins             ███████░░░░░░░░░░░░░░░░░░   26.73 % 
+Other                    34 mins             █████░░░░░░░░░░░░░░░░░░░░   20.05 % 
+Python                   33 mins             █████░░░░░░░░░░░░░░░░░░░░   19.47 % 
+C++                      16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
+Bash                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
 
 🔥 Editors: 
-VS Code                  1 hr 10 mins        ████████████████░░░░░░░░░   62.04 % 
-Codex Vscode             32 mins             ███████░░░░░░░░░░░░░░░░░░   28.69 % 
-Antigravity IDE          10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
+Copilot CLI              1 hr 12 mins        ██████████░░░░░░░░░░░░░░░   41.89 % 
+VS Code                  59 mins             █████████░░░░░░░░░░░░░░░░   34.59 % 
+Codex Vscode             30 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.48 % 
+Antigravity IDE          10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
 
 🐱‍💻 Projects: 
-passport-photo-maker-pro 40 mins             █████████░░░░░░░░░░░░░░░░   35.49 % 
-AlgoInfluencers          24 mins             █████░░░░░░░░░░░░░░░░░░░░   21.78 % 
-TypeScript_Domination    13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
-Unknown Project          11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
-Master Java Script       10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
+AlgoInfluencers          1 hr 45 mins        ███████████████░░░░░░░░░░   60.91 % 
+passport-photo-maker-pro 40 mins             ██████░░░░░░░░░░░░░░░░░░░   23.13 % 
+Unknown Project          11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
+main                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
+Master Java Script       5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
 
 💻 Operating System: 
-Mac                      1 hr 52 mins        █████████████████████████   100.00 % 
+Mac                      2 hrs 53 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 39 mins (87.83%)
+⏱ AI Coding Time: 2 hrs 39 mins (92.2%)
 
-✍️ 1,082 lines written by AI, 28 lines written by hand (97.48% AI-written)
+✍️ 1,108 lines written by AI, 11 lines written by hand (99.02% AI-written)
 
-🔤 516,637 Input Tokens, 67,889 Output Tokens
+🔤 542,886 Input Tokens, 71,279 Output Tokens
 
-💵 $3.72 Estimated AI Cost This Week
+💵 $3.36 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 27 AI Prompts
+🧠 9 AI Sessions, 40 AI Prompts
 
-GPT                      1,017 lines         ███████████████████████░░   92.04 % 
-Github-Copilot           44 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
-Gemini                   44 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
+GPT                      1,043 lines         ███████████████████████░░   92.22 % 
+Github-Copilot           44 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
+Gemini                   44 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
+Github-Copilot-Cli       0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.48% of written lines came from AI
-📄 Detailed Prompter — average 775 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 7.06% of changed lines were hand-edited
+🤖 AI-Driven — 99.02% of written lines came from AI
+📄 Detailed Prompter — average 652 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 5.43% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -232,7 +234,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Arghyadevs/Arghyadevs/main/assets/bar_graph.png)
 
 
- Last Updated on 28/08/2026 18:32:59 UTC
+ Last Updated on 28/08/2026 18:34:55 UTC
 <!--END_SECTION:waka-->
 
 <img src="assets/divider.svg" width="100%" alt=""/>
