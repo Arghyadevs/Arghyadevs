@@ -169,48 +169,48 @@ Sunday                   95 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               1 hr 5 mins         █████████░░░░░░░░░░░░░░░░   34.01 % 
-Python                   45 mins             ██████░░░░░░░░░░░░░░░░░░░   23.66 % 
-Other                    34 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.82 % 
-C++                      16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
-TypeScript               11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
+Python                   45 mins             ████████░░░░░░░░░░░░░░░░░   31.00 % 
+Other                    34 mins             ██████░░░░░░░░░░░░░░░░░░░   23.35 % 
+JavaScript               28 mins             █████░░░░░░░░░░░░░░░░░░░░   19.29 % 
+C++                      16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
+TypeScript               11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
 
 🔥 Editors: 
-Copilot CLI              1 hr 25 mins        ███████████░░░░░░░░░░░░░░   44.28 % 
-Antigravity IDE          1 hr 14 mins        ██████████░░░░░░░░░░░░░░░   38.41 % 
-VS Code                  33 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
+Copilot CLI              1 hr 25 mins        ███████████████░░░░░░░░░░   58.02 % 
+VS Code                  33 mins             ██████░░░░░░░░░░░░░░░░░░░   22.69 % 
+Antigravity IDE          28 mins             █████░░░░░░░░░░░░░░░░░░░░   19.29 % 
 
 🐱‍💻 Projects: 
-AlgoInfluencers          1 hr 58 mins        ███████████████░░░░░░░░░░   61.34 % 
-passport-photo-maker-pro 1 hr 14 mins        ██████████░░░░░░░░░░░░░░░   38.41 % 
-AB-testing-Pipeline      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+AlgoInfluencers          1 hr 58 mins        ████████████████████░░░░░   80.38 % 
+passport-photo-maker-pro 28 mins             █████░░░░░░░░░░░░░░░░░░░░   19.29 % 
+AB-testing-Pipeline      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 
 💻 Operating System: 
-Mac                      3 hrs 13 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 27 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 5 mins (95.95%)
+⏱ AI Coding Time: 2 hrs 19 mins (94.69%)
 
-✍️ 314 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 252 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
 🔤 221,631 Input Tokens, 30,720 Output Tokens
 
 💵 $0.40 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 38 AI Prompts
+🧠 6 AI Sessions, 34 AI Prompts
 
-Gemini                   180 lines           ██████████████░░░░░░░░░░░   57.32 % 
-Code                     108 lines           █████████░░░░░░░░░░░░░░░░   34.39 % 
-GPT                      26 lines            ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
+Gemini                   118 lines           ████████████░░░░░░░░░░░░░   46.83 % 
+Code                     108 lines           ███████████░░░░░░░░░░░░░░   42.86 % 
+GPT                      26 lines            ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
 Github-Copilot-Cli       0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 615 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
+📄 Detailed Prompter — average 682 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -231,7 +231,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Arghyadevs/Arghyadevs/main/assets/bar_graph.png)
 
 
- Last Updated on 31/08/2026 22:09:50 UTC
+ Last Updated on 31/08/2026 22:11:43 UTC
 <!--END_SECTION:waka-->
 
 <img src="assets/divider.svg" width="100%" alt=""/>
