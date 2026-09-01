@@ -122,9 +122,9 @@ const dev = {
 ## ⏱️ Dev Metrics — WakaTime
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-36%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-36%20hrs%2050%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-8%20hrs%2058%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-9%20hrs%2029%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -169,48 +169,46 @@ Sunday                   95 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   45 mins             ████████░░░░░░░░░░░░░░░░░   31.00 % 
-Other                    34 mins             ██████░░░░░░░░░░░░░░░░░░░   23.35 % 
-JavaScript               28 mins             █████░░░░░░░░░░░░░░░░░░░░   19.29 % 
-C++                      16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
-TypeScript               11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
+Python                   53 mins             █████████░░░░░░░░░░░░░░░░   35.42 % 
+Other                    34 mins             ██████░░░░░░░░░░░░░░░░░░░   22.94 % 
+CSS                      19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
+TypeScript               16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
+C++                      16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
 
 🔥 Editors: 
-Copilot CLI              1 hr 25 mins        ███████████████░░░░░░░░░░   58.02 % 
-VS Code                  33 mins             ██████░░░░░░░░░░░░░░░░░░░   22.69 % 
-Antigravity IDE          28 mins             █████░░░░░░░░░░░░░░░░░░░░   19.29 % 
+Copilot CLI              1 hr 25 mins        ██████████████░░░░░░░░░░░   57.00 % 
+VS Code                  1 hr 4 mins         ███████████░░░░░░░░░░░░░░   43.00 % 
 
 🐱‍💻 Projects: 
-AlgoInfluencers          1 hr 58 mins        ████████████████████░░░░░   80.38 % 
-passport-photo-maker-pro 28 mins             █████░░░░░░░░░░░░░░░░░░░░   19.29 % 
-AB-testing-Pipeline      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+AlgoInfluencers          2 hrs 29 mins       █████████████████████████   99.68 % 
+AB-testing-Pipeline      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 
 💻 Operating System: 
-Mac                      2 hrs 27 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 30 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 19 mins (94.69%)
+⏱ AI Coding Time: 2 hrs 22 mins (94.78%)
 
-✍️ 252 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 189 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
 🔤 221,631 Input Tokens, 30,720 Output Tokens
 
 💵 $0.40 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 34 AI Prompts
+🧠 6 AI Sessions, 41 AI Prompts
 
-Gemini                   118 lines           ████████████░░░░░░░░░░░░░   46.83 % 
-Code                     108 lines           ███████████░░░░░░░░░░░░░░   42.86 % 
-GPT                      26 lines            ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
+Code                     108 lines           ██████████████░░░░░░░░░░░   56.54 % 
+Github-Copilot           57 lines            ███████░░░░░░░░░░░░░░░░░░   29.84 % 
+GPT                      26 lines            ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
 Github-Copilot-Cli       0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 682 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
+📄 Detailed Prompter — average 583 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -231,7 +229,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Arghyadevs/Arghyadevs/main/assets/bar_graph.png)
 
 
- Last Updated on 01/09/2026 20:17:19 UTC
+ Last Updated on 01/09/2026 20:19:20 UTC
 <!--END_SECTION:waka-->
 
 <img src="assets/divider.svg" width="100%" alt=""/>
