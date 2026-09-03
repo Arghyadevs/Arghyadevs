@@ -122,9 +122,9 @@ const dev = {
 ## ⏱️ Dev Metrics — WakaTime
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-36%20hrs%2055%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-37%20hrs%2010%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-9%20hrs%2034%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-9%20hrs%2052%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -169,35 +169,37 @@ Sunday                   95 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   52 mins             ██████████░░░░░░░░░░░░░░░   40.28 % 
-Other                    34 mins             ███████░░░░░░░░░░░░░░░░░░   26.33 % 
-TypeScript               21 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.71 % 
-CSS                      19 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+Python                   1 hr 5 mins         ███████████░░░░░░░░░░░░░░   44.29 % 
+Other                    37 mins             ██████░░░░░░░░░░░░░░░░░░░   25.03 % 
+TypeScript               21 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
+CSS                      19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
+Markdown                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
 
 🔥 Editors: 
-Copilot CLI              1 hr 25 mins        ████████████████░░░░░░░░░   65.42 % 
-VS Code                  45 mins             █████████░░░░░░░░░░░░░░░░   34.58 % 
+Copilot CLI              1 hr 27 mins        ███████████████░░░░░░░░░░   58.97 % 
+VS Code                  1 hr                ██████████░░░░░░░░░░░░░░░   41.03 % 
 
 🐱‍💻 Projects: 
-AlgoInfluencers          2 hrs 10 mins       █████████████████████████   100.00 % 
+AlgoInfluencers          2 hrs 10 mins       ██████████████████████░░░   88.36 % 
+neuralflix               14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
+Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
 
 💻 Operating System: 
-Mac                      2 hrs 10 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 27 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 3 mins (94.68%)
+⏱ AI Coding Time: 2 hrs 20 mins (95.3%)
 
 ✍️ 189 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 221,631 Input Tokens, 30,720 Output Tokens
+🔤 489,660 Input Tokens, 32,225 Output Tokens
 
-💵 $0.40 Estimated AI Cost This Week
+💵 $5.95 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 30 AI Prompts
+🧠 8 AI Sessions, 36 AI Prompts
 
 Code                     108 lines           ██████████████░░░░░░░░░░░   56.54 % 
 Github-Copilot           57 lines            ███████░░░░░░░░░░░░░░░░░░   29.84 % 
@@ -206,8 +208,8 @@ Github-Copilot-Cli       0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 271 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
+📝 Concise Prompter — average 363 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -228,7 +230,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Arghyadevs/Arghyadevs/main/assets/bar_graph.png)
 
 
- Last Updated on 03/09/2026 20:16:02 UTC
+ Last Updated on 03/09/2026 20:17:51 UTC
 <!--END_SECTION:waka-->
 
 <img src="assets/divider.svg" width="100%" alt=""/>
