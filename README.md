@@ -169,46 +169,45 @@ Sunday                   95 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   1 hr 5 mins         ███████████░░░░░░░░░░░░░░   44.29 % 
-Other                    37 mins             ██████░░░░░░░░░░░░░░░░░░░   25.03 % 
-TypeScript               21 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
-CSS                      19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
-Markdown                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+Python                   32 mins             ████████████░░░░░░░░░░░░░   48.16 % 
+CSS                      19 mins             ███████░░░░░░░░░░░░░░░░░░   28.49 % 
+TypeScript               10 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
+Other                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
+Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
 
 🔥 Editors: 
-Copilot CLI              1 hr 27 mins        ███████████████░░░░░░░░░░   58.97 % 
-VS Code                  1 hr                ██████████░░░░░░░░░░░░░░░   41.03 % 
+VS Code                  52 mins             ████████████████████░░░░░   78.15 % 
+Copilot CLI              14 mins             █████░░░░░░░░░░░░░░░░░░░░   21.85 % 
 
 🐱‍💻 Projects: 
-AlgoInfluencers          2 hrs 10 mins       ██████████████████████░░░   88.36 % 
-neuralflix               14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
-Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+AlgoInfluencers          49 mins             ███████████████████░░░░░░   74.29 % 
+neuralflix               14 mins             █████░░░░░░░░░░░░░░░░░░░░   21.80 % 
+Unknown Project          2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
 
 💻 Operating System: 
-Mac                      2 hrs 27 mins       █████████████████████████   100.00 % 
+Mac                      1 hr 6 mins         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 20 mins (95.3%)
+⏱ AI Coding Time: 1 hr 6 mins (100.0%)
 
-✍️ 189 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 163 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 489,660 Input Tokens, 32,225 Output Tokens
+🔤 268,029 Input Tokens, 15,371 Output Tokens
 
-💵 $5.95 Estimated AI Cost This Week
+💵 $5.76 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 36 AI Prompts
+🧠 6 AI Sessions, 21 AI Prompts
 
-Code                     108 lines           ██████████████░░░░░░░░░░░   56.54 % 
-Github-Copilot           57 lines            ███████░░░░░░░░░░░░░░░░░░   29.84 % 
-GPT                      26 lines            ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
+Code                     108 lines           ████████████████░░░░░░░░░   65.45 % 
+Github-Copilot           57 lines            █████████░░░░░░░░░░░░░░░░   34.55 % 
 Github-Copilot-Cli       0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 363 characters per prompt
+📝 Concise Prompter — average 311 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -230,7 +229,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Arghyadevs/Arghyadevs/main/assets/bar_graph.png)
 
 
- Last Updated on 04/09/2026 20:01:06 UTC
+ Last Updated on 04/09/2026 20:02:50 UTC
 <!--END_SECTION:waka-->
 
 <img src="assets/divider.svg" width="100%" alt=""/>
