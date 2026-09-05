@@ -142,76 +142,6 @@ const dev = {
  > 
 > 🔑 26 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                227 commits         ████████░░░░░░░░░░░░░░░░░   30.84 % 
-🌆 Daytime                129 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.53 % 
-🌃 Evening                283 commits         ██████████░░░░░░░░░░░░░░░   38.45 % 
-🌙 Night                  97 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   78 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
-Tuesday                  210 commits         ███████░░░░░░░░░░░░░░░░░░   28.53 % 
-Wednesday                60 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
-Thursday                 86 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
-Friday                   84 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
-Saturday                 123 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.71 % 
-Sunday                   95 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Python                   32 mins             ████████████░░░░░░░░░░░░░   48.16 % 
-CSS                      19 mins             ███████░░░░░░░░░░░░░░░░░░   28.49 % 
-TypeScript               10 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
-Other                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
-Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
-
-🔥 Editors: 
-VS Code                  52 mins             ████████████████████░░░░░   78.15 % 
-Copilot CLI              14 mins             █████░░░░░░░░░░░░░░░░░░░░   21.85 % 
-
-🐱‍💻 Projects: 
-AlgoInfluencers          49 mins             ███████████████████░░░░░░   74.29 % 
-neuralflix               14 mins             █████░░░░░░░░░░░░░░░░░░░░   21.80 % 
-Unknown Project          2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
-
-💻 Operating System: 
-Mac                      1 hr 6 mins         █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 1 hr 6 mins (100.0%)
-
-✍️ 163 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 268,029 Input Tokens, 15,371 Output Tokens
-
-💵 $5.76 Estimated AI Cost This Week
-
-🧠 6 AI Sessions, 21 AI Prompts
-
-Code                     108 lines           ████████████████░░░░░░░░░   65.45 % 
-Github-Copilot           57 lines            █████████░░░░░░░░░░░░░░░░   34.55 % 
-Github-Copilot-Cli       0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 311 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -229,7 +159,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Arghyadevs/Arghyadevs/main/assets/bar_graph.png)
 
 
- Last Updated on 05/09/2026 19:41:25 UTC
+ Last Updated on 05/09/2026 19:43:03 UTC
 <!--END_SECTION:waka-->
 
 <img src="assets/divider.svg" width="100%" alt=""/>
