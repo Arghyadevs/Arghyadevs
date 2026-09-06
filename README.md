@@ -122,9 +122,9 @@ const dev = {
 ## ⏱️ Dev Metrics — WakaTime
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-37%20hrs%2010%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-37%20hrs%2016%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-9%20hrs%2052%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-9%20hrs%2059%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -169,45 +169,45 @@ Sunday                   96 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-CSS                      28 mins             █████████░░░░░░░░░░░░░░░░   36.99 % 
-Python                   28 mins             █████████░░░░░░░░░░░░░░░░   36.96 % 
-TypeScript               10 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.07 % 
-JavaScript               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
-Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
+CSS                      18 mins             ████████░░░░░░░░░░░░░░░░░   30.31 % 
+Python                   17 mins             ███████░░░░░░░░░░░░░░░░░░   28.51 % 
+TypeScript               10 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.04 % 
+JavaScript               4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
+Other                    4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
 
 🔥 Editors: 
-VS Code                  52 mins             █████████████████░░░░░░░░   68.68 % 
-Copilot CLI              23 mins             ████████░░░░░░░░░░░░░░░░░   31.32 % 
+VS Code                  1 hr                ████████████████████████░   97.22 % 
+Copilot CLI              1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
 
 🐱‍💻 Projects: 
-AlgoInfluencers          59 mins             ███████████████████░░░░░░   77.52 % 
-neuralflix               14 mins             █████░░░░░░░░░░░░░░░░░░░░   19.06 % 
-Unknown Project          2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
+AlgoInfluencers          43 mins             █████████████████░░░░░░░░   69.68 % 
+neuralflix               14 mins             ██████░░░░░░░░░░░░░░░░░░░   23.51 % 
+Unknown Project          2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
+DSA C++                  1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
 
 💻 Operating System: 
-Mac                      1 hr 16 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 2 mins         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 16 mins (99.74%)
+⏱ AI Coding Time: 1 hr 1 min (99.68%)
 
-✍️ 179 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 55 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 268,029 Input Tokens, 16,020 Output Tokens
+🔤 375,699 Input Tokens, 2,291 Output Tokens
 
-💵 $5.77 Estimated AI Cost This Week
+💵 $5.89 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 21 AI Prompts
+🧠 6 AI Sessions, 27 AI Prompts
 
-Code                     124 lines           █████████████████░░░░░░░░   68.51 % 
-Github-Copilot           57 lines            ████████░░░░░░░░░░░░░░░░░   31.49 % 
-Github-Copilot-Cli       0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Github-Copilot           57 lines            █████████████████████████   100.00 % 
+Code                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 329 characters per prompt
+📝 Concise Prompter — average 266 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -229,7 +229,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Arghyadevs/Arghyadevs/main/assets/bar_graph.png)
 
 
- Last Updated on 06/09/2026 19:44:30 UTC
+ Last Updated on 06/09/2026 19:46:18 UTC
 <!--END_SECTION:waka-->
 
 <img src="assets/divider.svg" width="100%" alt=""/>
