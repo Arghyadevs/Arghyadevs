@@ -132,9 +132,9 @@ const dev = {
 
 **🐱 My GitHub Data** 
 
-> 📦 543.9 kB Used in GitHub's Storage 
+> 📦 544.0 kB Used in GitHub's Storage 
  > 
-> 🏆 152 Contributions in the Year 2026
+> 🏆 154 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -145,21 +145,21 @@ const dev = {
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                227 commits         ████████░░░░░░░░░░░░░░░░░   30.84 % 
-🌆 Daytime                129 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.53 % 
-🌃 Evening                283 commits         ██████████░░░░░░░░░░░░░░░   38.45 % 
-🌙 Night                  97 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
+🌞 Morning                227 commits         ████████░░░░░░░░░░░░░░░░░   30.80 % 
+🌆 Daytime                130 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.64 % 
+🌃 Evening                283 commits         ██████████░░░░░░░░░░░░░░░   38.40 % 
+🌙 Night                  97 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   78 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
-Tuesday                  210 commits         ███████░░░░░░░░░░░░░░░░░░   28.53 % 
-Wednesday                60 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
-Thursday                 86 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
-Friday                   84 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
-Saturday                 123 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.71 % 
-Sunday                   95 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
+Monday                   78 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
+Tuesday                  210 commits         ███████░░░░░░░░░░░░░░░░░░   28.49 % 
+Wednesday                60 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
+Thursday                 86 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
+Friday                   84 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
+Saturday                 123 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.69 % 
+Sunday                   96 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
 ```
 
 
@@ -229,7 +229,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Arghyadevs/Arghyadevs/main/assets/bar_graph.png)
 
 
- Last Updated on 06/09/2026 02:23:28 UTC
+ Last Updated on 06/09/2026 09:52:14 UTC
 <!--END_SECTION:waka-->
 
 <img src="assets/divider.svg" width="100%" alt=""/>
