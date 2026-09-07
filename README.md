@@ -169,9 +169,9 @@ Sunday                   96 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-CSS                      18 mins             ████████░░░░░░░░░░░░░░░░░   30.31 % 
-Python                   17 mins             ███████░░░░░░░░░░░░░░░░░░   28.51 % 
-TypeScript               10 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.04 % 
+CSS                      18 mins             ████████░░░░░░░░░░░░░░░░░   30.30 % 
+Python                   17 mins             ███████░░░░░░░░░░░░░░░░░░   28.50 % 
+TypeScript               10 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.03 % 
 JavaScript               4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
 Other                    4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
 
@@ -180,10 +180,10 @@ VS Code                  1 hr                ███████████�
 Copilot CLI              1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
 
 🐱‍💻 Projects: 
-AlgoInfluencers          43 mins             █████████████████░░░░░░░░   69.68 % 
-neuralflix               14 mins             ██████░░░░░░░░░░░░░░░░░░░   23.51 % 
-Unknown Project          2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
-DSA C++                  1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
+AlgoInfluencers          43 mins             █████████████████░░░░░░░░   69.66 % 
+neuralflix               14 mins             ██████░░░░░░░░░░░░░░░░░░░   23.50 % 
+Unknown Project          2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
+DSA C++                  1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
 
 💻 Operating System: 
 Mac                      1 hr 2 mins         █████████████████████████   100.00 % 
@@ -192,9 +192,9 @@ Mac                      1 hr 2 mins         ███████████�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 1 min (99.68%)
+⏱ AI Coding Time: 1 hr 1 min (99.64%)
 
-✍️ 55 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 55 lines written by AI, 1,619 lines written by hand (3.29% AI-written)
 
 🔤 375,699 Input Tokens, 2,291 Output Tokens
 
@@ -206,10 +206,10 @@ Github-Copilot           57 lines            ███████████�
 Code                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 3.29% of written lines came from AI
 📝 Concise Prompter — average 266 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 96.6% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -229,7 +229,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Arghyadevs/Arghyadevs/main/assets/bar_graph.png)
 
 
- Last Updated on 07/09/2026 20:54:25 UTC
+ Last Updated on 07/09/2026 20:56:20 UTC
 <!--END_SECTION:waka-->
 
 <img src="assets/divider.svg" width="100%" alt=""/>
