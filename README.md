@@ -132,7 +132,7 @@ const dev = {
 
 **🐱 My GitHub Data** 
 
-> 📦 543.8 kB Used in GitHub's Storage 
+> 📦 543.9 kB Used in GitHub's Storage 
  > 
 > 🏆 154 Contributions in the Year 2026
  > 
@@ -140,26 +140,26 @@ const dev = {
  > 
 > 📜 28 Public Repositories 
  > 
-> 🔑 26 Private Repositories 
+> 🔑 27 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                227 commits         ████████░░░░░░░░░░░░░░░░░   30.80 % 
-🌆 Daytime                130 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.64 % 
-🌃 Evening                283 commits         ██████████░░░░░░░░░░░░░░░   38.40 % 
-🌙 Night                  97 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
+🌞 Morning                228 commits         ████████░░░░░░░░░░░░░░░░░   30.89 % 
+🌆 Daytime                130 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.62 % 
+🌃 Evening                283 commits         ██████████░░░░░░░░░░░░░░░   38.35 % 
+🌙 Night                  97 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   78 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
-Tuesday                  210 commits         ███████░░░░░░░░░░░░░░░░░░   28.49 % 
-Wednesday                60 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
-Thursday                 86 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
-Friday                   84 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
-Saturday                 123 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.69 % 
-Sunday                   96 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
+Monday                   79 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
+Tuesday                  210 commits         ███████░░░░░░░░░░░░░░░░░░   28.46 % 
+Wednesday                60 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
+Thursday                 86 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
+Friday                   84 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
+Saturday                 123 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Sunday                   96 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
 ```
 
 
@@ -215,11 +215,11 @@ Code                     0 lines             ░░░░░░░░░░░�
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               17 repos            ████████░░░░░░░░░░░░░░░░░   34.00 % 
-HTML                     16 repos            ████████░░░░░░░░░░░░░░░░░   32.00 % 
-JavaScript               6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
-PLSQL                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
-Jupyter Notebook         1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+TypeScript               17 repos            ████████░░░░░░░░░░░░░░░░░   33.33 % 
+JavaScript               6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+C++                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
+PLSQL                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+Jupyter Notebook         1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
 ```
 
 
@@ -229,7 +229,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Arghyadevs/Arghyadevs/main/assets/bar_graph.png)
 
 
- Last Updated on 07/09/2026 01:51:07 UTC
+ Last Updated on 07/09/2026 10:58:19 UTC
 <!--END_SECTION:waka-->
 
 <img src="assets/divider.svg" width="100%" alt=""/>
