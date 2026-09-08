@@ -122,9 +122,9 @@ const dev = {
 ## ⏱️ Dev Metrics — WakaTime
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-37%20hrs%2016%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-38%20hrs%2024%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-9%20hrs%2059%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-11%20hrs%206%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -169,47 +169,50 @@ Sunday                   96 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-CSS                      18 mins             ████████░░░░░░░░░░░░░░░░░   30.30 % 
-Python                   17 mins             ███████░░░░░░░░░░░░░░░░░░   28.50 % 
-TypeScript               10 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.03 % 
-JavaScript               4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
-Other                    4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
+HTML                     56 mins             ██████████████░░░░░░░░░░░   56.69 % 
+Markdown                 13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+Python                   10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
+TypeScript               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
+JavaScript               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
 
 🔥 Editors: 
-VS Code                  1 hr                ████████████████████████░   97.22 % 
-Copilot CLI              1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+VS Code                  1 hr 23 mins        █████████████████████░░░░   83.95 % 
+Antigravity Desktop      14 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
+Copilot CLI              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
 
 🐱‍💻 Projects: 
-AlgoInfluencers          43 mins             █████████████████░░░░░░░░   69.66 % 
-neuralflix               14 mins             ██████░░░░░░░░░░░░░░░░░░░   23.50 % 
-Unknown Project          2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
-DSA C++                  1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+IP CAM                   43 mins             ███████████░░░░░░░░░░░░░░   43.66 % 
+Unknown Project          25 mins             ██████░░░░░░░░░░░░░░░░░░░   25.62 % 
+neuralflix               14 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
+AlgoInfluencers          12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
+DSA C++                  3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
 
 💻 Operating System: 
-Mac                      1 hr 2 mins         █████████████████████████   100.00 % 
+Mac                      1 hr 39 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 1 min (99.64%)
+⏱ AI Coding Time: 1 hr 36 mins (97.75%)
 
-✍️ 55 lines written by AI, 1,619 lines written by hand (3.29% AI-written)
+✍️ 1,429 lines written by AI, 1,619 lines written by hand (46.88% AI-written)
 
-🔤 375,699 Input Tokens, 2,291 Output Tokens
+🔤 697,596 Input Tokens, 3,457 Output Tokens
 
-💵 $5.89 Estimated AI Cost This Week
+💵 $6.87 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 27 AI Prompts
+🧠 7 AI Sessions, 33 AI Prompts
 
-Github-Copilot           57 lines            █████████████████████████   100.00 % 
+Github-Copilot           1,317 lines         ███████████████████████░░   91.97 % 
+Gemini                   115 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
 Code                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 3.29% of written lines came from AI
-📝 Concise Prompter — average 266 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 96.6% of changed lines were hand-edited
+⚖️ Balanced with AI — 46.88% of written lines came from AI
+📝 Concise Prompter — average 261 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🔍 Hands-On Reviewer — 53.06% of changed lines were hand-edited
 ```
 
 **I Mostly Code in HTML** 
@@ -229,7 +232,7 @@ PLSQL                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Arghyadevs/Arghyadevs/main/assets/bar_graph.png)
 
 
- Last Updated on 08/09/2026 20:27:18 UTC
+ Last Updated on 08/09/2026 20:29:07 UTC
 <!--END_SECTION:waka-->
 
 <img src="assets/divider.svg" width="100%" alt=""/>
