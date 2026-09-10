@@ -169,49 +169,46 @@ Sunday                   96 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-HTML                     56 mins             ███████████████░░░░░░░░░░   60.38 % 
-Markdown                 13 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
-Python                   10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
-JavaScript               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
-Other                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
+HTML                     56 mins             ███████████████████░░░░░░   74.08 % 
+Markdown                 11 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
+Bash                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
+C++                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
+Python                   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
 
 🔥 Editors: 
-VS Code                  1 hr 17 mins        █████████████████████░░░░   82.91 % 
-Antigravity Desktop      14 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
-Copilot CLI              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
+VS Code                  1 hr 1 min          ████████████████████░░░░░   81.31 % 
+Antigravity Desktop      14 mins             █████░░░░░░░░░░░░░░░░░░░░   18.69 % 
 
 🐱‍💻 Projects: 
-IP CAM                   43 mins             ████████████░░░░░░░░░░░░░   46.51 % 
-Unknown Project          25 mins             ███████░░░░░░░░░░░░░░░░░░   27.29 % 
-neuralflix               14 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
-AlgoInfluencers          6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
-DSA C++                  3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
+IP CAM                   43 mins             ██████████████░░░░░░░░░░░   57.06 % 
+Unknown Project          22 mins             ████████░░░░░░░░░░░░░░░░░   30.03 % 
+AlgoInfluencers          6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
+DSA C++                  3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
 
 💻 Operating System: 
-Mac                      1 hr 33 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 15 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 31 mins (97.81%)
+⏱ AI Coding Time: 1 hr 13 mins (97.32%)
 
 ✍️ 1,429 lines written by AI, 1,619 lines written by hand (46.88% AI-written)
 
-🔤 697,596 Input Tokens, 3,457 Output Tokens
+🔤 429,567 Input Tokens, 1,952 Output Tokens
 
-💵 $6.87 Estimated AI Cost This Week
+💵 $1.32 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 30 AI Prompts
+🧠 4 AI Sessions, 24 AI Prompts
 
 Github-Copilot           1,317 lines         ███████████████████████░░   91.97 % 
 Gemini                   115 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
-Code                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 ⚖️ Balanced with AI — 46.88% of written lines came from AI
-📝 Concise Prompter — average 270 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
+📝 Concise Prompter — average 130 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
 🔍 Hands-On Reviewer — 53.06% of changed lines were hand-edited
 ```
 
@@ -232,7 +229,7 @@ PLSQL                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Arghyadevs/Arghyadevs/main/assets/bar_graph.png)
 
 
- Last Updated on 10/09/2026 20:12:24 UTC
+ Last Updated on 10/09/2026 20:14:27 UTC
 <!--END_SECTION:waka-->
 
 <img src="assets/divider.svg" width="100%" alt=""/>
