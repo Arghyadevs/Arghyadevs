@@ -200,15 +200,15 @@ Mac                      1 hr 15 mins        ███████████�
 
 💵 $1.32 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 24 AI Prompts
+🧠 3 AI Sessions, 23 AI Prompts
 
 Github-Copilot           1,317 lines         ███████████████████████░░   91.97 % 
 Gemini                   115 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
 
 🔎 AI Coding Insights:
 ⚖️ Balanced with AI — 46.88% of written lines came from AI
-📝 Concise Prompter — average 130 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
+📝 Concise Prompter — average 117 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
 🔍 Hands-On Reviewer — 53.06% of changed lines were hand-edited
 ```
 
@@ -229,7 +229,7 @@ PLSQL                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Arghyadevs/Arghyadevs/main/assets/bar_graph.png)
 
 
- Last Updated on 12/09/2026 19:50:20 UTC
+ Last Updated on 12/09/2026 19:52:17 UTC
 <!--END_SECTION:waka-->
 
 <img src="assets/divider.svg" width="100%" alt=""/>
