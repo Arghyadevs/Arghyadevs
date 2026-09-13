@@ -122,9 +122,9 @@ const dev = {
 ## ⏱️ Dev Metrics — WakaTime
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-38%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-40%20hrs%2024%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-11%20hrs%206%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-13%20hrs%2018%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -142,76 +142,6 @@ const dev = {
  > 
 > 🔑 28 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                228 commits         ████████░░░░░░░░░░░░░░░░░   30.69 % 
-🌆 Daytime                130 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.50 % 
-🌃 Evening                288 commits         ██████████░░░░░░░░░░░░░░░   38.76 % 
-🌙 Night                  97 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   79 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
-Tuesday                  213 commits         ███████░░░░░░░░░░░░░░░░░░   28.67 % 
-Wednesday                61 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
-Thursday                 86 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
-Friday                   84 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
-Saturday                 123 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.55 % 
-Sunday                   97 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-HTML                     56 mins             ███████████████████░░░░░░   74.08 % 
-Markdown                 11 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
-Bash                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
-C++                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
-Python                   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
-
-🔥 Editors: 
-VS Code                  1 hr 1 min          ████████████████████░░░░░   81.31 % 
-Antigravity Desktop      14 mins             █████░░░░░░░░░░░░░░░░░░░░   18.69 % 
-
-🐱‍💻 Projects: 
-IP CAM                   43 mins             ██████████████░░░░░░░░░░░   57.06 % 
-Unknown Project          22 mins             ████████░░░░░░░░░░░░░░░░░   30.03 % 
-AlgoInfluencers          6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
-DSA C++                  3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
-
-💻 Operating System: 
-Mac                      1 hr 15 mins        █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 1 hr 13 mins (97.32%)
-
-✍️ 1,429 lines written by AI, 1,619 lines written by hand (46.88% AI-written)
-
-🔤 429,567 Input Tokens, 1,952 Output Tokens
-
-💵 $1.32 Estimated AI Cost This Week
-
-🧠 3 AI Sessions, 23 AI Prompts
-
-Github-Copilot           1,317 lines         ███████████████████████░░   91.97 % 
-Gemini                   115 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
-
-🔎 AI Coding Insights:
-⚖️ Balanced with AI — 46.88% of written lines came from AI
-📝 Concise Prompter — average 117 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🔍 Hands-On Reviewer — 53.06% of changed lines were hand-edited
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -229,7 +159,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Arghyadevs/Arghyadevs/main/assets/bar_graph.png)
 
 
- Last Updated on 13/09/2026 19:59:34 UTC
+ Last Updated on 13/09/2026 20:01:31 UTC
 <!--END_SECTION:waka-->
 
 <img src="assets/divider.svg" width="100%" alt=""/>
