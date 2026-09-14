@@ -180,9 +180,9 @@ VS Code                  3 hrs 15 mins       ███████████�
 Antigravity Desktop      14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
 
 🐱‍💻 Projects: 
-IP CAM                   3 hrs 4 mins        ██████████████████████░░░   88.25 % 
+IP CAM                   3 hrs 4 mins        ██████████████████████░░░   88.26 % 
 Unknown Project          22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
-DSA C++                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+DSA C++                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
 
 💻 Operating System: 
 Mac                      3 hrs 29 mins       █████████████████████████   100.00 % 
@@ -191,24 +191,24 @@ Mac                      3 hrs 29 mins       ███████████�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 18 mins (94.85%)
+⏱ AI Coding Time: 3 hrs 18 mins (94.86%)
 
-✍️ 3,853 lines written by AI, 1,674 lines written by hand (69.71% AI-written)
+✍️ 3,853 lines written by AI, 55 lines written by hand (98.59% AI-written)
 
 🔤 2,842,181 Input Tokens, 9,123 Output Tokens
 
 💵 $8.66 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 75 AI Prompts
+🧠 4 AI Sessions, 76 AI Prompts
 
 Github-Copilot           3,751 lines         ████████████████████████░   97.03 % 
 Gemini                   115 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 69.71% of written lines came from AI
-📄 Detailed Prompter — average 1,110 characters per prompt
-🔁 Iterative Prompter — average 25 prompts per session
-🔍 Hands-On Reviewer — 57.13% of changed lines were hand-edited
+🤖 AI-Driven — 98.59% of written lines came from AI
+📄 Detailed Prompter — average 1,095 characters per prompt
+🔁 Iterative Prompter — average 19 prompts per session
+🚀 High AI Trust — 47.74% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -228,7 +228,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Arghyadevs/Arghyadevs/main/assets/bar_graph.png)
 
 
- Last Updated on 14/09/2026 21:09:39 UTC
+ Last Updated on 14/09/2026 21:11:39 UTC
 <!--END_SECTION:waka-->
 
 <img src="assets/divider.svg" width="100%" alt=""/>
