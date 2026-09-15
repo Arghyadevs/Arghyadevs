@@ -122,9 +122,9 @@ const dev = {
 ## ⏱️ Dev Metrics — WakaTime
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-40%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-42%20hrs%208%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-13%20hrs%2018%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-15%20hrs%202%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -169,46 +169,44 @@ Sunday                   97 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-HTML                     1 hr 37 mins        ████████████░░░░░░░░░░░░░   46.53 % 
-Markdown                 22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
-Other                    21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
-CSS                      20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
-JavaScript               18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
+JavaScript               1 hr 26 mins        █████████░░░░░░░░░░░░░░░░   35.48 % 
+CSS                      44 mins             █████░░░░░░░░░░░░░░░░░░░░   18.05 % 
+HTML                     40 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.70 % 
+Other                    21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+Bash                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 15 mins       ███████████████████████░░   93.22 % 
-Antigravity Desktop      14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
+VS Code                  3 hrs 32 mins       ██████████████████████░░░   86.59 % 
+Antigravity IDE          32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
 
 🐱‍💻 Projects: 
-IP CAM                   3 hrs 4 mins        ██████████████████████░░░   88.26 % 
-Unknown Project          22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
-DSA C++                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+IP CAM                   4 hrs 4 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      3 hrs 29 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 4 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 18 mins (94.86%)
+⏱ AI Coding Time: 3 hrs 56 mins (96.43%)
 
-✍️ 3,853 lines written by AI, 55 lines written by hand (98.59% AI-written)
+✍️ 3,168 lines written by AI, 55 lines written by hand (98.29% AI-written)
 
-🔤 2,842,181 Input Tokens, 9,123 Output Tokens
+🔤 4,246,766 Input Tokens, 8,963 Output Tokens
 
-💵 $8.66 Estimated AI Cost This Week
+💵 $12.87 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 76 AI Prompts
+🧠 5 AI Sessions, 97 AI Prompts
 
-Github-Copilot           3,751 lines         ████████████████████████░   97.03 % 
-Gemini                   115 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
+Github-Copilot           2,575 lines         ████████████████████░░░░░   80.54 % 
+Gemini                   622 lines           █████░░░░░░░░░░░░░░░░░░░░   19.46 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.59% of written lines came from AI
-📄 Detailed Prompter — average 1,095 characters per prompt
+🤖 AI-Driven — 98.29% of written lines came from AI
+📚 Verbose Prompter — average 6,424 characters per prompt
 🔁 Iterative Prompter — average 19 prompts per session
-🚀 High AI Trust — 47.74% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 52.49% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -228,7 +226,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Arghyadevs/Arghyadevs/main/assets/bar_graph.png)
 
 
- Last Updated on 15/09/2026 20:36:24 UTC
+ Last Updated on 15/09/2026 20:38:20 UTC
 <!--END_SECTION:waka-->
 
 <img src="assets/divider.svg" width="100%" alt=""/>
