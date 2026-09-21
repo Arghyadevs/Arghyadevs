@@ -196,15 +196,15 @@ Mac                      2 hrs 7 mins        ███████████�
 
 💵 $5.19 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 43 AI Prompts
+🧠 4 AI Sessions, 41 AI Prompts
 
 Gemini                   737 lines           █████████████████████░░░░   83.09 % 
 Github-Copilot           150 lines           ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 12,617 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
+📚 Verbose Prompter — average 13,231 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -225,7 +225,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Arghyadevs/Arghyadevs/main/assets/bar_graph.png)
 
 
- Last Updated on 21/09/2026 21:22:17 UTC
+ Last Updated on 21/09/2026 21:23:58 UTC
 <!--END_SECTION:waka-->
 
 <img src="assets/divider.svg" width="100%" alt=""/>
