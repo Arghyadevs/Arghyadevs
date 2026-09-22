@@ -169,42 +169,37 @@ Sunday                   97 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               1 hr 32 mins        ██████████████████░░░░░░░   72.49 % 
-CSS                      23 mins             █████░░░░░░░░░░░░░░░░░░░░   18.29 % 
-Bash                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+JavaScript               4 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  1 hr 10 mins        ██████████████░░░░░░░░░░░   55.60 % 
-Antigravity IDE          56 mins             ███████████░░░░░░░░░░░░░░   44.40 % 
+Antigravity IDE          4 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-IP CAM                   2 hrs 7 mins        █████████████████████████   100.00 % 
+IP CAM                   4 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      2 hrs 7 mins        █████████████████████████   100.00 % 
+Mac                      4 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 7 mins (100.0%)
+⏱ AI Coding Time: 4 mins (100.0%)
 
-✍️ 868 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 110 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,726,482 Input Tokens, 1,006 Output Tokens
+🔤 0 Input Tokens, 0 Output Tokens
 
-💵 $5.19 Estimated AI Cost This Week
+💵 $0.00 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 41 AI Prompts
+🧠 1 AI Sessions, 1 AI Prompts
 
-Gemini                   737 lines           █████████████████████░░░░   83.09 % 
-Github-Copilot           150 lines           ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
+Gemini                   110 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 13,231 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
+📝 Concise Prompter — average 11 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -225,7 +220,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Arghyadevs/Arghyadevs/main/assets/bar_graph.png)
 
 
- Last Updated on 22/09/2026 20:38:22 UTC
+ Last Updated on 22/09/2026 20:40:28 UTC
 <!--END_SECTION:waka-->
 
 <img src="assets/divider.svg" width="100%" alt=""/>
