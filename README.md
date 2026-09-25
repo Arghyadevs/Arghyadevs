@@ -142,6 +142,76 @@ const dev = {
  > 
 > 🔑 28 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                229 commits         ████████░░░░░░░░░░░░░░░░░   30.78 % 
+🌆 Daytime                130 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.47 % 
+🌃 Evening                288 commits         ██████████░░░░░░░░░░░░░░░   38.71 % 
+🌙 Night                  97 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   79 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
+Tuesday                  213 commits         ███████░░░░░░░░░░░░░░░░░░   28.63 % 
+Wednesday                61 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
+Thursday                 86 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
+Friday                   85 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
+Saturday                 123 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
+Sunday                   97 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+JavaScript               1 hr 6 mins         ██████████████░░░░░░░░░░░   54.89 % 
+Python                   28 mins             ██████░░░░░░░░░░░░░░░░░░░   23.25 % 
+Bash                     12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
+Markdown                 11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
+TypeScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+
+🔥 Editors: 
+Antigravity IDE          1 hr 56 mins        ████████████████████████░   96.85 % 
+Antigravity Desktop      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
+
+🐱‍💻 Projects: 
+neuralflix               1 hr 6 mins         ██████████████░░░░░░░░░░░   54.99 % 
+IP CAM                   25 mins             █████░░░░░░░░░░░░░░░░░░░░   20.91 % 
+creAItr.                 22 mins             █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
+AlgoGuard-AI             6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
+
+💻 Operating System: 
+Mac                      2 hrs               █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 2 hrs (100.0%)
+
+✍️ 256 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 421,156 Input Tokens, 21,076 Output Tokens
+
+💵 $0.68 Estimated AI Cost This Week
+
+🧠 9 AI Sessions, 20 AI Prompts
+
+Gemini                   185 lines           ██████████████████░░░░░░░   72.27 % 
+Antigravity-Desktop      71 lines            ███████░░░░░░░░░░░░░░░░░░   27.73 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 62 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -159,7 +229,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Arghyadevs/Arghyadevs/main/assets/bar_graph.png)
 
 
- Last Updated on 25/09/2026 20:53:31 UTC
+ Last Updated on 25/09/2026 20:55:21 UTC
 <!--END_SECTION:waka-->
 
 <img src="assets/divider.svg" width="100%" alt=""/>
