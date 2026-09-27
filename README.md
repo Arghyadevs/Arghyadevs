@@ -122,7 +122,7 @@ const dev = {
 ## ⏱️ Dev Metrics — WakaTime
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-43%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-43%20hrs%2054%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-16%20hrs%2037%20mins-blue?style=flat)
 
@@ -132,7 +132,7 @@ const dev = {
 
 **🐱 My GitHub Data** 
 
-> 📦 544.7 kB Used in GitHub's Storage 
+> 📦 544.9 kB Used in GitHub's Storage 
  > 
 > 🏆 157 Contributions in the Year 2026
  > 
@@ -169,47 +169,49 @@ Sunday                   97 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               1 hr 6 mins         ██████████████░░░░░░░░░░░   54.89 % 
-Python                   28 mins             ██████░░░░░░░░░░░░░░░░░░░   23.25 % 
-Bash                     12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
-Markdown                 11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
-TypeScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+Other                    1 hr 2 mins         ████████░░░░░░░░░░░░░░░░░   32.80 % 
+Python                   48 mins             ██████░░░░░░░░░░░░░░░░░░░   25.55 % 
+JavaScript               23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
+Bash                     22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
+C++                      12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
 
 🔥 Editors: 
-Antigravity IDE          1 hr 56 mins        ████████████████████████░   96.85 % 
-Antigravity Desktop      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
+Antigravity IDE          2 hrs 55 mins       ███████████████████████░░   92.23 % 
+VS Code                  11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
+Antigravity Desktop      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
 
 🐱‍💻 Projects: 
-neuralflix               1 hr 6 mins         ██████████████░░░░░░░░░░░   54.99 % 
-IP CAM                   25 mins             █████░░░░░░░░░░░░░░░░░░░░   20.91 % 
-creAItr.                 22 mins             █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
-AlgoGuard-AI             6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
+Unknown Project          1 hr 2 mins         ████████░░░░░░░░░░░░░░░░░   32.68 % 
+creAItr.                 44 mins             ██████░░░░░░░░░░░░░░░░░░░   23.56 % 
+neuralflix               40 mins             █████░░░░░░░░░░░░░░░░░░░░   21.41 % 
+AlgoGuard-AI             24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
+DSA C++                  10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
 
 💻 Operating System: 
-Mac                      2 hrs               █████████████████████████   100.00 % 
+Mac                      3 hrs 10 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs (100.0%)
+⏱ AI Coding Time: 2 hrs 59 mins (94.23%)
 
-✍️ 256 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 2,550 lines written by AI, 48 lines written by hand (98.15% AI-written)
 
-🔤 421,156 Input Tokens, 21,076 Output Tokens
+🔤 9,526,551 Input Tokens, 216,823 Output Tokens
 
-💵 $0.68 Estimated AI Cost This Week
+💵 $8.55 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 20 AI Prompts
+🧠 9 AI Sessions, 26 AI Prompts
 
-Gemini                   185 lines           ██████████████████░░░░░░░   72.27 % 
-Antigravity-Desktop      71 lines            ███████░░░░░░░░░░░░░░░░░░   27.73 % 
+Gemini                   2,460 lines         ████████████████████████░   94.54 % 
+Antigravity-Desktop      142 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 62 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🤖 AI-Driven — 98.15% of written lines came from AI
+📝 Concise Prompter — average 117 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 2.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -229,7 +231,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Arghyadevs/Arghyadevs/main/assets/bar_graph.png)
 
 
- Last Updated on 26/09/2026 10:39:23 UTC
+ Last Updated on 27/09/2026 02:20:46 UTC
 <!--END_SECTION:waka-->
 
 <img src="assets/divider.svg" width="100%" alt=""/>
