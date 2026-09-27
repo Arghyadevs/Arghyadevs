@@ -202,7 +202,7 @@ Mac                      3 hrs 10 mins       ███████████�
 
 💵 $8.55 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 26 AI Prompts
+🧠 8 AI Sessions, 26 AI Prompts
 
 Gemini                   2,460 lines         ████████████████████████░   94.54 % 
 Antigravity-Desktop      142 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
@@ -231,7 +231,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Arghyadevs/Arghyadevs/main/assets/bar_graph.png)
 
 
- Last Updated on 27/09/2026 20:34:43 UTC
+ Last Updated on 27/09/2026 20:36:25 UTC
 <!--END_SECTION:waka-->
 
 <img src="assets/divider.svg" width="100%" alt=""/>
