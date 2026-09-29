@@ -214,8 +214,14 @@ Antigravity-Desktop      142 lines           █░░░░░░░░░░�
 🚀 High AI Trust — 2.0% of changed lines were hand-edited
 ```
 
-```text
+**I Mostly Code in TypeScript** 
 
+```text
+TypeScript               16 repos            █████████░░░░░░░░░░░░░░░░   34.04 % 
+JavaScript               6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
+C++                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+PLSQL                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
 ```
 
 
@@ -225,7 +231,7 @@ Antigravity-Desktop      142 lines           █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Arghyadevs/Arghyadevs/main/assets/bar_graph.png)
 
 
- Last Updated on 29/09/2026 04:01:03 UTC
+ Last Updated on 29/09/2026 04:01:50 UTC
 <!--END_SECTION:waka-->
 
 <img src="assets/divider.svg" width="100%" alt=""/>
