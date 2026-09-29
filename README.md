@@ -126,13 +126,13 @@ const dev = {
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-16%20hrs%2037%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.84%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 544.9 kB Used in GitHub's Storage 
+> 📦 545.0 kB Used in GitHub's Storage 
  > 
 > 🏆 157 Contributions in the Year 2026
  > 
@@ -231,7 +231,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Arghyadevs/Arghyadevs/main/assets/bar_graph.png)
 
 
- Last Updated on 29/09/2026 17:13:08 UTC
+ Last Updated on 29/09/2026 21:38:26 UTC
 <!--END_SECTION:waka-->
 
 <img src="assets/divider.svg" width="100%" alt=""/>
