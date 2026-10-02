@@ -132,7 +132,7 @@ const dev = {
 
 **🐱 My GitHub Data** 
 
-> 📦 545.1 kB Used in GitHub's Storage 
+> 📦 545.2 kB Used in GitHub's Storage 
  > 
 > 🏆 159 Contributions in the Year 2026
  > 
@@ -169,49 +169,49 @@ Sunday                   98 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    1 hr 2 mins         ████████░░░░░░░░░░░░░░░░░   33.20 % 
-Python                   47 mins             ██████░░░░░░░░░░░░░░░░░░░   25.38 % 
-JavaScript               23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
-Bash                     20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
-C++                      12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
+Other                    1 hr 2 mins         ██████████░░░░░░░░░░░░░░░   41.67 % 
+Python                   28 mins             █████░░░░░░░░░░░░░░░░░░░░   19.34 % 
+JavaScript               22 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
+C++                      12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
+Markdown                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
 
 🔥 Editors: 
-Antigravity IDE          2 hrs 53 mins       ███████████████████████░░   92.13 % 
-VS Code                  11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
-Antigravity Desktop      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+Antigravity IDE          2 hrs 14 mins       ███████████████████████░░   90.10 % 
+VS Code                  11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
+Antigravity Desktop      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
 
 🐱‍💻 Projects: 
-Unknown Project          1 hr 2 mins         ████████░░░░░░░░░░░░░░░░░   33.09 % 
-creAItr.                 44 mins             ██████░░░░░░░░░░░░░░░░░░░   23.86 % 
-neuralflix               40 mins             █████░░░░░░░░░░░░░░░░░░░░   21.67 % 
-AlgoGuard-AI             24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
-DSA C++                  10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
+Unknown Project          1 hr 2 mins         ██████████░░░░░░░░░░░░░░░   41.66 % 
+neuralflix               40 mins             ███████░░░░░░░░░░░░░░░░░░   27.28 % 
+AlgoGuard-AI             24 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.64 % 
+DSA C++                  10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
+creAItr.                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
 
 💻 Operating System: 
-Mac                      3 hrs 7 mins        █████████████████████████   100.00 % 
+Mac                      2 hrs 29 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 57 mins (94.16%)
+⏱ AI Coding Time: 2 hrs 18 mins (92.64%)
 
-✍️ 2,550 lines written by AI, 48 lines written by hand (98.15% AI-written)
+✍️ 2,417 lines written by AI, 48 lines written by hand (98.05% AI-written)
 
-🔤 9,354,638 Input Tokens, 212,370 Output Tokens
+🔤 7,060,567 Input Tokens, 170,122 Output Tokens
 
-💵 $8.40 Estimated AI Cost This Week
+💵 $6.52 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 22 AI Prompts
+🧠 6 AI Sessions, 17 AI Prompts
 
-Gemini                   2,460 lines         ████████████████████████░   94.54 % 
-Antigravity-Desktop      142 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
+Gemini                   2,275 lines         ████████████████████████░   94.12 % 
+Antigravity-Desktop      142 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.15% of written lines came from AI
-📝 Concise Prompter — average 135 characters per prompt
+🤖 AI-Driven — 98.05% of written lines came from AI
+📝 Concise Prompter — average 167 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 2.0% of changed lines were hand-edited
+🚀 High AI Trust — 2.15% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -231,7 +231,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Arghyadevs/Arghyadevs/main/assets/bar_graph.png)
 
 
- Last Updated on 01/10/2026 18:06:08 UTC
+ Last Updated on 02/10/2026 02:59:17 UTC
 <!--END_SECTION:waka-->
 
 <img src="assets/divider.svg" width="100%" alt=""/>
