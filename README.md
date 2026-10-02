@@ -169,49 +169,23 @@ Sunday                   98 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    1 hr 2 mins         ██████████░░░░░░░░░░░░░░░   41.67 % 
-Python                   28 mins             █████░░░░░░░░░░░░░░░░░░░░   19.34 % 
-JavaScript               22 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
-C++                      12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
-Markdown                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
+C++                      10 mins             █████████████████████████   98.52 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
 
 🔥 Editors: 
-Antigravity IDE          2 hrs 14 mins       ███████████████████████░░   90.10 % 
-VS Code                  11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
-Antigravity Desktop      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+VS Code                  10 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          1 hr 2 mins         ██████████░░░░░░░░░░░░░░░   41.66 % 
-neuralflix               40 mins             ███████░░░░░░░░░░░░░░░░░░   27.28 % 
-AlgoGuard-AI             24 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.64 % 
-DSA C++                  10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
-creAItr.                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
+DSA C++                  10 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      2 hrs 29 mins       █████████████████████████   100.00 % 
+Mac                      10 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 18 mins (92.64%)
-
-✍️ 2,417 lines written by AI, 48 lines written by hand (98.05% AI-written)
-
-🔤 7,060,567 Input Tokens, 170,122 Output Tokens
-
-💵 $6.52 Estimated AI Cost This Week
-
-🧠 6 AI Sessions, 17 AI Prompts
-
-Gemini                   2,275 lines         ████████████████████████░   94.12 % 
-Antigravity-Desktop      142 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 98.05% of written lines came from AI
-📝 Concise Prompter — average 167 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 2.15% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -231,7 +205,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Arghyadevs/Arghyadevs/main/assets/bar_graph.png)
 
 
- Last Updated on 02/10/2026 21:33:42 UTC
+ Last Updated on 02/10/2026 21:35:47 UTC
 <!--END_SECTION:waka-->
 
 <img src="assets/divider.svg" width="100%" alt=""/>
