@@ -190,11 +190,11 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               16 repos            █████████░░░░░░░░░░░░░░░░   34.04 % 
-JavaScript               6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
-C++                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
-PLSQL                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
-Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+TypeScript               15 repos            ████████████░░░░░░░░░░░░░   50.00 % 
+JavaScript               5 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
 ```
 
 
@@ -204,7 +204,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Arghyadevs/Arghyadevs/main/assets/bar_graph.png)
 
 
- Last Updated on 11/10/2026 22:06:48 UTC
+ Last Updated on 11/10/2026 22:07:16 UTC
 <!--END_SECTION:waka-->
 
 <img src="assets/divider.svg" width="100%" alt=""/>
