@@ -132,7 +132,7 @@ const dev = {
 
 **🐱 My GitHub Data** 
 
-> 📦 546.1 kB Used in GitHub's Storage 
+> 📦 546.2 kB Used in GitHub's Storage 
  > 
 > 🏆 160 Contributions in the Year 2026
  > 
@@ -204,7 +204,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Arghyadevs/Arghyadevs/main/assets/bar_graph.png)
 
 
- Last Updated on 27/10/2026 21:51:06 UTC
+ Last Updated on 28/10/2026 02:55:31 UTC
 <!--END_SECTION:waka-->
 
 <img src="assets/divider.svg" width="100%" alt=""/>
